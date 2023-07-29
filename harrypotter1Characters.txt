@@ -1,0 +1,5436 @@
+Dursley-PERSON
+four-CARDINAL
+Privet Drive-LOC
+Dursley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Dudley-PERSON
+Dursleys-PERSON
+Potter-PERSON
+Dursley-PERSON
+several years-DATE
+Dursley-PERSON
+Dursleys-PERSON
+Potters-PERSON
+Dursleys-PERSON
+Dudley-PERSON
+Dursley-PERSON
+Tuesday-DATE
+Dursley-PERSON
+Dursley-PERSON
+Dudley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Dursley-PERSON
+number four-CARDINAL
+second-ORDINAL
+Dursley-PERSON
+Privet Drive-LOC
+Dursley-PERSON
+Dursley-PERSON
+Privet-PERSON
+Dursley-PERSON
+that day-DATE
+Dursley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+a few minutes later-TIME
+Dursley-PERSON
+Dursley-PERSON
+ninth-ORDINAL
+morning-TIME
+nighttime-TIME
+Dursley-PERSON
+owl-free morning-TIME
+five-CARDINAL
+baker-PERSON
+The Potters-WORK_OF_ART
+Harry-PERSON
+Dursley-PERSON
+Potter-ORG
+Harry-PERSON
+Harry-PERSON
+Harvey-ORG
+Harold-PERSON
+Dursley-PERSON
+afternoon-TIME
+five o’clock-DATE
+a few seconds-TIME
+Dursley-PERSON
+today-DATE
+Muggles-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Muggle-ORG
+four-CARDINAL
+that morning-TIME
+one-CARDINAL
+Shoo-WORK_OF_ART
+Dursley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+normal day-DATE
+Next Door-PERSON
+Dudley-PERSON
+Dursley-PERSON
+Dudley-PERSON
+today-DATE
+night-TIME
+hundreds-CARDINAL
+Jim-PERSON
+tonight-TIME
+Jim-PERSON
+Well, Ted,”-WORK_OF_ART
+today-DATE
+Kent-PERSON
+Yorkshire-PERSON
+yesterday-DATE
+Bonfire Night-FAC
+next week-DATE
+tonight-TIME
+Dursley-PERSON
+Britain-GPE
+Dursley-PERSON
+two-CARDINAL
+Petunia-PERSON
+Dursley-PERSON
+Dursley-PERSON
+today-DATE
+Dursley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Potter-WORK_OF_ART
+Dudley-PERSON
+Dursley-PERSON
+Howard-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Privet Drive-LOC
+Dursleys-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Dursley-PERSON
+Petunia-PERSON
+Petunia-PERSON
+Dursley-PERSON
+two-CARDINAL
+nearly midnight-TIME
+Privet-PERSON
+half-moon-QUANTITY
+Albus Dumbledore-PERSON
+Albus Dumbledore-PERSON
+Twelve-CARDINAL
+two-CARDINAL
+Dursley-PERSON
+four-CARDINAL
+all 
+day-DATE
+McGonagall-PERSON
+All day-DATE
+dozen-CARDINAL
+Muggles-ORG
+Dursleys-PERSON
+Kent-GPE
+Dedalus Diggle-PERSON
+Dumbledore-ORG
+eleven 
+years-DATE
+McGonagall-PERSON
+Muggle-NORP
+Muggles-GPE
+Dumbledore-PERSON
+Muggle-ORG
+eleven years-DATE
+McGonagall-PERSON
+two-CARDINAL
+Voldemort-ORG
+McGonagall-PERSON
+half-CARDINAL
+half-CARDINAL
+Voldemort-ORG
+Pomfrey-PERSON
+McGonagall-PERSON
+McGonagall-PERSON
+all 
+day-DATE
+Dumbledore-GPE
+Godric’s Hollow-FAC
+Lily-PERSON
+James Potter-PERSON
+McGonagall-PERSON
+Lily and James-WORK_OF_ART
+Albus-PERSON
+McGonagall-PERSON
+Harry-PERSON
+Harry Potter-PERSON
+McGonagall-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+McGonagall-PERSON
+twelve-CARDINAL
+Dumbledore-GPE
+Hagrid-PERSON
+McGonagall-WORK_OF_ART
+Harry-PERSON
+McGonagall-PERSON
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+four-CARDINAL
+all day-DATE
+two-CARDINAL
+Harry Potter-PERSON
+McGonagall-PERSON
+Really, Dumbledore-WORK_OF_ART
+Harry Potter Day-WORK_OF_ART
+Harry-PERSON
+Exactly-WORK_OF_ART
+Dumbledore-PERSON
+McGonagall-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Dumbledore-PERSON
+McGonagall-PERSON
+at least five-CARDINAL
+Dumbledore-PERSON
+Dumbledore-PERSON
+Muggles-PERSON
+Bristol-ORG
+Dumbledore-GPE
+McGonagall-PERSON
+McGonagall-PERSON
+Dumbledore-PERSON
+Dumbledore-PERSON
+the London Underground-ORG
+Hagrid-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Harry-PERSON
+Hagrid-PERSON
+McGonagall-PERSON
+Lily-PERSON
+James-PERSON
+Muggles-PERSON
+McGonagall-PERSON
+Harry-PERSON
+Harry-PERSON
+two-CARDINAL
+a full minute-TIME
+three-CARDINAL
+Hagrid-PERSON
+McGonagall-PERSON
+Dumbledore-PERSON
+Hagrid-PERSON
+McGonagall-PERSON
+Dumbledore-PERSON
+Hagrid-PERSON
+the night-TIME
+McGonagall-PERSON
+Dumbledore-PERSON
+twelve-CARDINAL
+Privet Drive-LOC
+four-CARDINAL
+Harry-PERSON
+Privet Drive-LOC
+Harry Potter-PERSON
+One-CARDINAL
+a few hours-TIME
+weeks-DATE
+Dudley-PERSON
+Harry Potter-PERSON
+Nearly ten years-DATE
+Dursleys-PERSON
+four-CARDINAL
+Dursleys-PERSON
+the night-TIME
+Dursley-PERSON
+Ten years ago-DATE
+Dudley-PERSON
+Dursley-PERSON
+first-ORDINAL
+Harry Potter-PERSON
+Aunt Petunia-FAC
+first-ORDINAL
+the 
+day-DATE
+Harry-PERSON
+Harry-PERSON
+Duddy-PERSON
+Dudley-PERSON
+Harry-PERSON
+one-CARDINAL
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+second-ORDINAL
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+about four-CARDINAL
+Harry-PERSON
+Scotch-NORP
+Dudley-PERSON
+Harry-PERSON
+first-ORDINAL
+first-ORDINAL
+Dursleys-PERSON
+Harry-PERSON
+Uncle-PERSON
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Petunia-PERSON
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Thirty-six-DATE
+two-CARDINAL
+less than last year-DATE
+Marge-PERSON
+Mommy-PERSON
+thirty-seven-CARDINAL
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+two-CARDINAL
+today-DATE
+Two-CARDINAL
+Dudley-PERSON
+Thirty-nine-CARDINAL
+Aunt Petunia-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+sixteen-CARDINAL
+Aunt Petunia-PERSON
+Vernon-GPE
+Figg-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+the day-DATE
+Every year-DATE
+Harry-PERSON
+two-CARDINAL
+Figg-PERSON
+Aunt Petunia-PERSON
+Harry-PERSON
+Harry-PERSON
+Figg-PERSON
+a whole year-DATE
+Paws-PERSON
+Tufty-PRODUCT
+Marge-ORG
+Vernon-ORG
+Vernon-GPE
+Dursleys-PERSON
+Harry-PERSON
+Majorca-GPE
+Aunt Petunia-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+Petunia-PERSON
+Dudley-PERSON
+years-DATE
+Dinky Duddydums-WORK_OF_ART
+Mummy-PERSON
+Dudley-PERSON
+Harry-PERSON
+Aunt Petunia-PERSON
+Dudley-PERSON
+Piers Polkiss-PERSON
+Piers-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Piers-PERSON
+Dudley-PERSON
+first-ORDINAL
+Uncle Vernon-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+night-TIME
+the next day-DATE
+Next morning-TIME
+Petunia-PERSON
+Aunt Petunia-PERSON
+Dudley-PERSON
+Harry-PERSON
+Petunia-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+today-DATE
+Dudley-PERSON
+Piers-PERSON
+the 
+day-DATE
+Figg-PERSON
+Uncle Vernon-PERSON
+Petunia-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+This morning-TIME
+Harry-PERSON
+Harry-PERSON
+MOTORCYCLES DONT FLY-WORK_OF_ART
+Piers-ORG
+Harry-PERSON
+one-CARDINAL
+Dursleys-PERSON
+Saturday-DATE
+Dursleys-PERSON
+Dudley 
+
+ 
+
+
+
+
+-PERSON
+Piers-PERSON
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+the best morning-TIME
+Dudley-PERSON
+Piers-PERSON
+Dudley-PERSON
+Harry-PERSON
+first-ORDINAL
+Dudley-PERSON
+Piers-PERSON
+Dudley-PERSON
+Uncle-PERSON
+Dudley-PERSON
+Dudley-PERSON
+all day long-DATE
+Aunt Petunia-PERSON
+Harry-PERSON
+Uncle Vernon-ORG
+Dudley-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Brazil-GPE
+Harry-PERSON
+Brazil-GPE
+Harry-PERSON
+DURSLEY-PERSON
+Dudley-PERSON
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+second-ORDINAL
+Piers-ORG
+Dudley-PERSON
+Harry-PERSON
+Brazil-GPE
+Aunt Petunia-FAC
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+Piers-PERSON
+Harry-PERSON
+Piers-PERSON
+Harry-WORK_OF_ART
+Harry-PERSON
+Piers-PERSON
+Harry-PERSON
+Aunt Petunia-ORG
+Dursleys-PERSON
+Dursleys-PERSON
+ten-CARDINAL
+long hours-TIME
+Harry-PERSON
+Dursleys-PERSON
+Aunt Petunia-ORG
+Dudley-PERSON
+Harry-PERSON
+Petunia-PERSON
+second-ORDINAL
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry Potter-PERSON
+Dudley-PERSON
+3-QUANTITY
+Brazilian-NORP
+summer-DATE
+Dudley-PERSON
+first-ORDINAL
+Figg-PERSON
+Privet-PERSON
+Dudley-PERSON
+Dennis-PERSON
+Malcolm-PERSON
+Gordon-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry Hunting-PERSON
+Harry-PERSON
+September-DATE
+first-ORDINAL
+Dudley-PERSON
+Dudley-PERSON
+Uncle Vernon’s-ORG
+Harry-PERSON
+Dudley-PERSON
+first-ORDINAL
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+July-DATE
+Aunt Petunia-PERSON
+Dudley-PERSON
+London-GPE
+Smeltings-ORG
+Harry-PERSON
+Figg-PERSON
+Figg-PERSON
+Harry-PERSON
+several years-DATE
+Dudley-PERSON
+Dudley-PERSON
+Aunt Petunia-PERSON
+Ickle Dudleykins-NORP
+Harry-PERSON
+two-CARDINAL
+Harry-PERSON
+Aunt Petunia-FAC
+Aunt Petunia-PERSON
+Dudley-PERSON
+his first day-DATE
+Dudley-PERSON
+Uncle Vernon-GPE
+Harry-PERSON
+Uncle Vernon-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Uncle Vernon-PERSON
+Harry-PERSON
+Dudley-PERSON
+Three-CARDINAL
+Marge-PERSON
+the Isle of Wight-GPE
+Harry-PERSON
+H. Potter-PERSON
+Cupboard-ORG
+Little Whinging-PERSON
+Harry-PERSON
+H. 
+
+-PERSON
+Hurry up-WORK_OF_ART
+Uncle Vernon-PERSON
+Uncle-PERSON
+Marge-WORK_OF_ART
+Dudley-PERSON
+Harry-PERSON
+Uncle Vernon-ORG
+Harry-PERSON
+Uncle Vernon-PERSON
+seconds-TIME
+Dudley-PERSON
+Uncle-PERSON
+Aunt Petunia-FAC
+first-ORDINAL
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry-PERSON
+Uncle Vernon-PERSON
+Dudley-PERSON
+Uncle Vernon-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry-PERSON
+Petunia-PERSON
+Vernon-PERSON
+Petunia-PERSON
+Uncle-PERSON
+Harry-PERSON
+Harry-PERSON
+Uncle-PERSON
+Harry-PERSON
+Uncle Vernon-PERSON
+Harry-PERSON
+Dudley-PERSON
+second-ORDINAL
+Harry-PERSON
+Dursleys-PERSON
+four-CARDINAL
+one-CARDINAL
+one-CARDINAL
+Uncle Vernon-GPE
+Marge-PERSON
+Dudley-PERSON
+Dudley-PERSON
+first-ORDINAL
+Harry-PERSON
+month-old-DATE
+Dudley-PERSON
+Dudley-PERSON
+first-ORDINAL
+Dudley-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Yesterday-DATE
+Today-DATE
+Dudley-PERSON
+Harry-PERSON
+yesterday-DATE
+Uncle Vernon-GPE
+Harry-PERSON
+Dudley-PERSON
+H. Potter-PERSON
+4 Privet Drive-PERSON
+Uncle Vernon-ORG
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+Uncle Vernon-PERSON
+a minute-TIME
+Uncle Vernon-PERSON
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+first-ORDINAL
+six o’clock-TIME
+Harry-PERSON
+Dursleys-PERSON
+four-CARDINAL
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+about half an 
+hour-CARDINAL
+Harry-PERSON
+Harry-PERSON
+three-CARDINAL
+that day-DATE
+Vernon-GPE
+Petunia-PERSON
+Uncle-PERSON
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+Aunt Petunia-FAC
+Friday-DATE
+less than twelve-CARDINAL
+Tiptoe-GPE
+Saturday-DATE
+Twenty-four-CARDINAL
+Harry-PERSON
+the 
+house-FAC
+two-CARDINAL
+dozen-CARDINAL
+milkman-PERSON
+Petunia-PERSON
+Uncle Vernon-ORG
+Aunt Petunia-PERSON
+Dudley-PERSON
+Harry-PERSON
+•k-CARDINAL
+Sunday-DATE
+morning-TIME
+Sundays-DATE
+today-DATE
+thirty-TIME
+forty-CARDINAL
+Dursleys-PERSON
+Harry-PERSON
+Harry-NORP
+Dudley-PERSON
+Uncle Vernon-PERSON
+five 
+minutes-TIME
+half-CARDINAL
+Ten minutes later-TIME
+Dudley-PERSON
+Aunt Petunia-PERSON
+all day-DATE
+Dudley-PERSON
+five-CARDINAL
+Dudley-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+the next day-DATE
+Scuse-PERSON
+one-CARDINAL
+H. Potter-PERSON
+H. Potter-PERSON
+7-CARDINAL
+Vernon-ORG
+Uncle Vernon-PERSON
+Petunia-PERSON
+Uncle-PERSON
+Dudley-PERSON
+Petunia-PERSON
+late that afternoon-TIME
+Dudley-PERSON
+Monday-DATE
+tonight-TIME
+Monday-DATE
+Harry-PERSON
+Monday-DATE
+Dudley-PERSON
+the days of the week-DATE
+tomorrow, Tuesday-DATE
+Harry-PERSON
+last year-DATE
+Dursleys-PERSON
+Uncle Vernon’s old-ORG
+Uncle Vernon-PERSON
+One-CARDINAL
+tonight-TIME
+Uncle Vernon-PERSON
+Uncle Vernon-PERSON
+Uncle Vernon-GPE
+four-CARDINAL
+hut-ORG
+Petunia-PERSON
+second-ORDINAL
+Dudley-PERSON
+Uncle Vernon-PERSON
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+midnight-TIME
+Dudley-PERSON
+Harry-PERSON
+eleven in ten minutes-TIME
+Five minutes-TIME
+Harry-PERSON
+Four minutes-TIME
+Privet Drive-LOC
+one-CARDINAL
+Three minutes-TIME
+two minutes-TIME
+One minute-TIME
+eleven-TIME
+Thirty seconds-TIME
+Dudley-PERSON
+three-CARDINAL
+two-QUANTITY
+Harry-PERSON
+THE KEYS 
+
+BOOM-ORG
+Dudley-PERSON
+Dudley-PERSON
+yeh great lump-PERSON
+Dudley-PERSON
+Yeh-PERSON
+yer dad-PERSON
+yeh’ve got yer-WORK_OF_ART
+Dursley-PERSON
+Dursleys-PERSON
+yeh-PERSON
+yeh-PERSON
+Harry-PERSON
+Happy Birthday Harry-PERSON
+Rubeus Hagrid-PERSON
+Harry-PERSON
+second-ORDINAL
+Harry-PERSON
+first-ORDINAL
+Dudley-PERSON
+Vernon-ORG
+Dudley-PERSON
+Dursley-PERSON
+Harry-PERSON
+Call me Hagrid-WORK_OF_ART
+Keeper of Keys at Hogwarts-WORK_OF_ART
+Hogwarts-ORG
+Harry-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Dursleys-PERSON
+yeh-PERSON
+yeh-PERSON
+Hogwarts-WORK_OF_ART
+Did yeh-PERSON
+Harry-PERSON
+ALL WHAT-WORK_OF_ART
+Dursleys-PERSON
+Dursleys-PERSON
+Hagrid-PERSON
+Yer-PERSON
+Mimblewimble-WORK_OF_ART
+Harry-PERSON
+Yeh don-PERSON
+yeh don-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Yeh don-PERSON
+yeh-PERSON
+Vernon Dursley-PERSON
+Hagrid-PERSON
+Dumbledore-PERSON
+Dursley-PERSON
+Harry-PERSON
+FORBID-ORG
+Uncle Vernon-PERSON
+boil yer heads-PERSON
+yeh-PERSON
+Hagrid-PERSON
+Harry —-WORK_OF_ART
+Harry-PERSON
+Hagrid-PERSON
+yeh’ve-PRODUCT
+yeh-PERSON
+yellowish-NORP
+Floor-ORG
+The Sea-LOC
+First-ORDINAL
+Grand Sore-GPE
+Chf-PERSON
+Supreme Mugwump-ORG
+International Confed-ORG
+Potter-PERSON
+Hogwarts School of Witchcraft-ORG
+September 1-DATE
+later than July 31-DATE
+Minerva McGonagall-PERSON
+Headmistress 
+
+
+
+ 
+
+
+
+
+-ORG
+Harry-PERSON
+first-ORDINAL
+a few 
+minutes-TIME
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Muggle-NORP
+Harry-PERSON
+Muggle-ORG
+Hagrid-PERSON
+Uncle Vernon-PERSON
+Wizard-PERSON
+Harry-PERSON
+Aunt Petunia-PERSON
+only one-CARDINAL
+Lily-PERSON
+Lily-PERSON
+years-DATE
+Potter-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Dursleys-PERSON
+Lily-PERSON
+Harry Potter-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Dumbledore-PERSON
+yeh-PERSON
+yeh-PERSON
+Harry-PERSON
+yeh-PERSON
+yeh-PERSON
+knowin-PERSON
+Dursleys-PERSON
+yeh-PERSON
+a few seconds-TIME
+Gulpin-PERSON
+Harry-PERSON
+Blimey-PERSON
+Harry-PERSON
+Voldemort-WORK_OF_ART
+Don-PERSON
+about twenty years ago-DATE
+Harry-PERSON
+One-CARDINAL
+Reckon Dumbledore-PERSON
+Hogwarts 
+-FAC
+their day-DATE
+myst’ry-PRODUCT
+Dumbledore-PERSON
+Halloween ten years ago-DATE
+a 
+year old-DATE
+knew yer mum-PERSON
+yeh-PERSON
+You-Know-WORK_OF_ART
+Harry-PERSON
+McKinnons-PERSON
+Bones-LOC
+Prewetts-FAC
+Harry-PERSON
+Hagrid-PERSON
+first-ORDINAL
+Uncle Vernon-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Vernon-ORG
+Hagrid-PERSON
+Hagrid-PERSON
+Uncle Vernon-WORK_OF_ART
+Dursley-PERSON
+Hagrid-PERSON
+hundreds-CARDINAL
+Harry-PERSON
+myst’ry-PRODUCT
+Codswallop-PERSON
+Don-PERSON
+cornin-PERSON
+Harry-PERSON
+that night-TIME
+Harry-PERSON
+Harry-PERSON
+Dudley-PERSON
+Uncle-PERSON
+Dudley-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Harry Potter-PERSON
+Muggle-NORP
+Hagrid-PERSON
+Stop Lily an’ James Potter-WORK_OF_ART
+Seven 
+years-DATE
+Albus Dumbled-PERSON
+DUMBLEDORE-PERSON
+Dudley-PERSON
+Dudley-PERSON
+Harry-PERSON
+Aunt Petunia-FAC
+Dudley-PERSON
+Hagrid-PERSON
+Harry-PERSON
+yeh-PERSON
+yeh-PERSON
+yer-PERSON
+yeh-PERSON
+one-CARDINAL
+Harry-PERSON
+Hogwarts-ORG
+me third year-DATE
+half-CARDINAL
+Dumbledore-PERSON
+tomorrow-DATE
+Hagrid loudly-PERSON
+Harry-PERSON
+Don-PERSON
+ALLY 
+
+-PERSON
+Aunt Petunia-FAC
+Harry-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Harry loudly-PERSON
+peppermint humbugs-PERSON
+Harry-PERSON
+five-CARDINAL
+Knuts-PERSON
+Hagrid sleepily-PERSON
+Knuts-WORK_OF_ART
+five-CARDINAL
+Harry-PERSON
+Harry-PERSON
+London-GPE
+Hagrid-PERSON
+Mm-WORK_OF_ART
+Hagrid-PERSON
+Uncle-PERSON
+last night-TIME
+Don’t-WORK_OF_ART
+Hagrid-PERSON
+yeh-PERSON
+house-ORG
+us-GPE
+Gringotts-PERSON
+Wizards-ORG
+Gringotts-PERSON
+Goblins-PERSON
+Harry-PERSON
+Gringotts-PERSON
+Hogwarts-PERSON
+Gringotts-PERSON
+Fer Dumbledore-PERSON
+Fetchin-PERSON
+Gringotts-GPE
+Harry-PERSON
+Hagrid-PERSON
+yeh-PERSON
+Harry-PERSON
+Hagrid-PERSON
+yeh-PERSON
+Hogwarts-WORK_OF_ART
+Harry-PERSON
+rob Gringotts-PERSON
+Harry-PERSON
+Hagrid-PERSON
+yeh-PERSON
+Gringotts-PERSON
+hundreds of miles-QUANTITY
+London-GPE
+Underground-GPE
+yeh-PERSON
+Hagrid-PERSON
+Harry-PERSON
+’Course-WORK_OF_ART
+Hagrid-PERSON
+Hogwarts-WORK_OF_ART
+Cornelius Fudge-PERSON
+Bungler-PERSON
+Dumbledore-PERSON
+askin-PERSON
+Ministry of Magic-ORG
+Muggles-GPE
+Blimey-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+Muggles-GPE
+Hagrid-PERSON
+Harry-PERSON
+Gringotts-GPE
+Hagrid-PERSON
+one-CARDINAL
+London-GPE
+five minutes-TIME
+Hagrid-PERSON
+Muggle money-WORK_OF_ART
+Harry-PERSON
+two-CARDINAL
+Harry-PERSON
+Hagrid-PERSON
+yeh-PERSON
+Harry-PERSON
+second-ORDINAL
+the night-TIME
+WITCHCRAFT-ORG
+WIZARDRY-ORG
+First-year-DATE
+1-CARDINAL
+Three-CARDINAL
+2-CARDINAL
+One-CARDINAL
+3-CARDINAL
+One-CARDINAL
+4-CARDINAL
+One-CARDINAL
+Miranda-PERSON
+A History of Magic-WORK_OF_ART
+Bathilda Bagshot 
+
+-ORG
+Adalbert Waffling-PERSON
+A Beginners-ORG
+One Thousand-CARDINAL
+Phyllida-PERSON
+Arsenius Jigger-PERSON
+Find Them by Newt 
+-WORK_OF_ART
+The Dark Forces-ORG
+Quentin-PERSON
+1-CARDINAL
+pewter-PERSON
+2-CARDINAL
+1-CARDINAL
+1-CARDINAL
+1-CARDINAL
+London-GPE
+Harry-PERSON
+yeh-PERSON
+Hagrid-PERSON
+London-GPE
+Muggles-GPE
+Harry-PERSON
+Dursleys-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Hagrid-PERSON
+“the Leaky 
+Cauldron.-WORK_OF_ART
+Hagrid-PERSON
+Harry-PERSON
+Leaky Cauldron-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Can’t, Tom, I’m on Hogwarts-WORK_OF_ART
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+The Leaky Cauldron-ORG
+Harry 
+Potter-WORK_OF_ART
+Harry-PERSON
+Potter-PERSON
+Harry-PERSON
+the Leaky Cauldron-LOC
+Doris Crockford-PERSON
+Potter-PERSON
+Potter-PERSON
+Potter-PERSON
+Diggle-PERSON
+Dedalus Diggle-PERSON
+Harry-PERSON
+Dedalus Diggle-PERSON
+Dedalus Diggle-PERSON
+Doris-PERSON
+One-CARDINAL
+Quirrell-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Quirrell-PERSON
+D-Defense Against the D-D-Dark Arts-WORK_OF_ART
+Quirrell-PERSON
+Quirrell-PERSON
+almost ten minutes-TIME
+Hagrid-PERSON
+Harry-PERSON
+Doris Crockford-PERSON
+Harry-PERSON
+one-CARDINAL
+Hagrid-PERSON
+Harry-PERSON
+yeh-PERSON
+yeh-PERSON
+Quirrell-PERSON
+yeh-PERSON
+the Black Forest-ORG
+Harry-PERSON
+Three-CARDINAL
+two-CARDINAL
+Harry-PERSON
+three-CARDINAL
+second-ORDINAL
+Hagrid-PERSON
+Hagrid-PERSON
+Diagon Alley-ORG
+Harry-PERSON
+Harry-PERSON
+Brass-GPE
+Pewter-PERSON
+Hagrid-PERSON
+about eight-CARDINAL
+Apothecary-GPE
+sixteen-DATE
+Eeylops Owl Emporium-FAC
+Screech-PERSON
+Barn-PERSON
+Brown-PERSON
+Snowy-LOC
+Harry-PERSON
+Nimbus Two Thousand-ORG
+Harry-PERSON
+Gringotts-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+second-ORDINAL
+About a hundred-CARDINAL
+Hagrid-PERSON
+Harry-PERSON
+Morning-TIME
+Harry Potter-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+seven hundred and thirteen-CARDINAL
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+the You-Know-What-WORK_OF_ART
+thirteen-WORK_OF_ART
+Harry-PERSON
+Can’t tell yeh that-WORK_OF_ART
+Hagrid-PERSON
+yeh-PERSON
+Harry-PERSON
+first-ORDINAL
+Harry-PERSON
+Harry-PERSON
+Stalagmite-WORK_OF_ART
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Knuts-PERSON
+Hagrid-PERSON
+Dursleys-PERSON
+Harry-PERSON
+London-GPE
+Harry-PERSON
+Galleons-PERSON
+Seventeen silver Sickles to a Galleon-WORK_OF_ART
+twenty-nine-CARDINAL
+seven-CARDINAL
+thirteen-CARDINAL
+Griphook-PERSON
+Harry-PERSON
+seven hundred and thirteen-CARDINAL
+Griphook-PERSON
+one-CARDINAL
+Gringotts-GPE
+Harry-PERSON
+Griphook-PERSON
+Harry-PERSON
+first-ORDINAL
+Harry-PERSON
+Hagrid-PERSON
+Gringotts-PERSON
+Harry-PERSON
+first-ORDINAL
+Galleons-PERSON
+Dudley-PERSON
+Hagrid-PERSON
+Malkin-PERSON
+Listen, Harry-WORK_OF_ART
+the Leaky Cauldron-LOC
+Gringotts-GPE
+Harry-PERSON
+Malkin-PERSON
+Malkin-PERSON
+Harry-PERSON
+second-ORDINAL
+Malkin-PERSON
+Harry-PERSON
+Harry-PERSON
+Dudley-GPE
+Harry-PERSON
+Harry-PERSON
+Quidditch-PERSON
+House-ORG
+House-ORG
+11-CARDINAL
+Harry-PERSON
+the minute-TIME
+Slytherin-GPE
+Hufflepuff-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Harry-PERSON
+two-CARDINAL
+Harry-PERSON
+Harry-PERSON
+second-ORDINAL
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Malkin-PERSON
+Harry-PERSON
+Hogwarts-GPE
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+Quidditch-PERSON
+Blimey-PERSON
+Harry-PERSON
+Quidditch-PERSON
+Harry-PERSON
+Malkin-PERSON
+Muggle-NORP
+Muggle-NORP
+knowin-PERSON
+yer-PERSON
+the Leaky Cauldron-FAC
+yeh-PERSON
+Muggles-PERSON
+Quidditch-PERSON
+Wizard-ORG
+Muggle-NORP
+Quidditch-PERSON
+four-CARDINAL
+Slytherin-PERSON
+Hufflepuff-PERSON
+School Houses-WORK_OF_ART
+four-CARDINAL
+Hufflepuff-PERSON
+Hufflepuff-PERSON
+Harry gloomily-PERSON
+Hagrid-PERSON
+Slytherin-PERSON
+Hogwarts-WORK_OF_ART
+Years an’ years ago-DATE
+Hagrid-PERSON
+Harry-PERSON
+Flourish-NORP
+Blotts-PERSON
+Dudley-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Bewitch Your Friends and Befuddle Your Enemies-WORK_OF_ART
+the Latest Revenges:-ORG
+Jelly-Legs-PERSON
+Tongue-Tying and Much, Much More-WORK_OF_ART
+Vindictus Viridian-PERSON
+Dudley-PERSON
+Muggle-NORP
+Hagrid-PERSON
+yeh’ll-PRODUCT
+yeh-PERSON
+Harry-PERSON
+pewter-PERSON
+Barrels-PERSON
+Harry-PERSON
+Harry-PERSON
+five-CARDINAL
+Apothecary-GPE
+Hagrid-PERSON
+Harry-PERSON
+yeh-PERSON
+yeh-PERSON
+years 
+-DATE
+yeh’d-NORP
+carry yer mail-PERSON
+Twenty minutes later-TIME
+Eeylops Owl 
+Emporium-FAC
+Harry-PERSON
+Quirrell-PERSON
+Don-PERSON
+Hagrid gruffly-PERSON
+Don-PERSON
+Dursleys-PERSON
+yeh-PERSON
+Harry-PERSON
+382b-DATE
+Hagrid-PERSON
+Harry-PERSON
+thousands-CARDINAL
+afternoon-TIME
+Harry-PERSON
+Harry awkwardly-PERSON
+Harry Potter-PERSON
+first-ORDINAL
+Ten-CARDINAL
+a quarter inches-QUANTITY
+Ollivander-PERSON
+Harry-PERSON
+Harry-PERSON
+Eleven inches-QUANTITY
+Ollivander-PERSON
+Harry-PERSON
+Harry-PERSON
+Ollivander-PERSON
+Harry-PERSON
+Thirteen-and-a-half inches-WORK_OF_ART
+Yew-PERSON
+Harry-PERSON
+Rubeus Hagrid-PERSON
+sixteen inches-QUANTITY
+Hagrid-PERSON
+half-CARDINAL
+Ollivander-PERSON
+Hagrid-PERSON
+Ollivander-PERSON
+Ollivander-PERSON
+Potter-PERSON
+Harry-PERSON
+Harry-PERSON
+Potter-PERSON
+two-CARDINAL
+Ollivander-ORG
+as no two unicorns-QUANTITY
+Ollivander-PERSON
+Beech-NORP
+Nine inches-QUANTITY
+Ollivander-PERSON
+Seven inches-QUANTITY
+Ollivander-PERSON
+eight-CARDINAL
+springy-GPE
+Ollivander-PERSON
+Tricky-WORK_OF_ART
+eleven inches-QUANTITY
+Ollivander-PERSON
+Harry-PERSON
+Harry-PERSON
+Ollivander-PERSON
+Harry-PERSON
+Potter-PERSON
+one-CARDINAL
+Yew-PERSON
+Potter-PERSON
+seven-CARDINAL
+Galleons-PERSON
+Ollivander-PERSON
+late afternoon-TIME
+sun hung-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Diagon Alley-ORG
+Leaky-FAC
+Harry-PERSON
+Harry-PERSON
+Paddington-GPE
+Harry-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Yer-PERSON
+Hagrid-PERSON
+the Leaky Cauldron-LOC
+Ollivander-PERSON
+the night-TIME
+Don-WORK_OF_ART
+Harry-PERSON
+Harry-PERSON
+Dursleys-PERSON
+Yer-PERSON
+First-ORDINAL
+September-DATE
+King’s Cross-ORG
+Dursleys-ORG
+yeh-PERSON
+Harry-PERSON
+Harry-PERSON
+Hagrid-PERSON
+last month-DATE
+Dursleys-PERSON
+Dudley-PERSON
+Harry-PERSON
+Aunt Petunia-FAC
+Uncle-PERSON
+Harry-PERSON
+Half-CARDINAL
+half-CARDINAL
+Harry-PERSON
+Hedwig-PERSON
+A History of Magic-WORK_OF_ART
+the night-TIME
+Hedwig-PERSON
+Petunia-PERSON
+Hedwig-PERSON
+Harry-PERSON
+September-DATE
+first-ORDINAL
+the last day of August-DATE
+the next day-DATE
+Dudley-PERSON
+King’s Cross-ORG
+Hogwarts-WORK_OF_ART
+Harry-PERSON
+Uncle Vernon-PERSON
+Magic-PRODUCT
+Harry-PERSON
+first-ORDINAL
+Hagrid-PERSON
+nine-CARDINAL
+eleven o’clock-TIME
+Uncle Vernon-PERSON
+nine-CARDINAL
+three-quarters-DATE
+Uncle Vernon-PERSON
+11-CARDINAL
+King’s Cross-ORG
+London-GPE
+tomorrow-DATE
+London-GPE
+Harry-PERSON
+Taking Dudley-WORK_OF_ART
+Smeltings-ORG
+five o’clock the next morning-TIME
+Hedwig-PERSON
+Dursleys-PERSON
+Two hours later-TIME
+Harry-PERSON
+Dursleys-PERSON
+Aunt Petunia-PERSON
+Dudley-PERSON
+Harry-PERSON
+King’s Cross-ORG
+Harry-PERSON
+Harry-PERSON
+Uncle Vernon-ORG
+nine-CARDINAL
+ten-CARDINAL
+nine-CARDINAL
+one-CARDINAL
+ten-CARDINAL
+Uncle Vernon-PERSON
+Harry-PERSON
+Dursleys-PERSON
+All three-CARDINAL
+Harry-PERSON
+Hedwig-PERSON
+nine-CARDINAL
+three-quarters-DATE
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+eleven o’clock-TIME
+Harry-PERSON
+ten minutes-TIME
+third-ORDINAL
+Diagon Alley-ORG
+between platforms nine and ten-DATE
+Muggles-GPE
+four-CARDINAL
+Harry-PERSON
+Harry-PERSON
+Ginny-PERSON
+first-ORDINAL
+Harry-PERSON
+two-CARDINAL
+Fred-PERSON
+Fred-PERSON
+George-PERSON
+George-PERSON
+Sorry, George-WORK_OF_ART
+Fred-PERSON
+second-ORDINAL
+third-ORDINAL
+Harry-PERSON
+First-ORDINAL
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+between platforms nine-DATE
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Hogwarts 
+Express-ORG
+eleven o’clock-TIME
+Harry-PERSON
+Platform Nine-PRODUCT
+Three--ORG
+first-ORDINAL
+Harry-PERSON
+Gran-WORK_OF_ART
+Neville-GPE
+Lee-PERSON
+Hedwig-PERSON
+Fred-PERSON
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+Harry-PERSON
+Blimey-PERSON
+first-ORDINAL
+Harry-PERSON
+Harry-PERSON
+Harry Potter-PERSON
+Harry-PERSON
+two-CARDINAL
+Harry-PERSON
+Fred?-WORK_OF_ART
+Harry-PERSON
+Ron-PERSON
+Ronnie-ORG
+one-CARDINAL
+Ron-PERSON
+Harry-PERSON
+two-CARDINAL
+one-CARDINAL
+A minute-WORK_OF_ART
+All summer-DATE
+Percy the Prefect-PERSON
+one-CARDINAL
+Percy-PERSON
+Ron-PERSON
+Ronniekins-PERSON
+Ron-PERSON
+Harry Potted-WORK_OF_ART
+Ginny-PERSON
+Fred-PERSON
+first-ORDINAL
+Don’t, Ginny-WORK_OF_ART
+Hogwarts-WORK_OF_ART
+Harry-PERSON
+half-CARDINAL
+half-CARDINAL
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Hey, Ron-WORK_OF_ART
+Ron-PERSON
+Harry-WORK_OF_ART
+Fred-PERSON
+George Weasley-PERSON
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry Potter-PERSON
+Ron-PERSON
+one-CARDINAL
+Fred-NORP
+George-PERSON
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+second-ORDINAL
+Diagon Alley-ORG
+Muggles-GPE
+Ron-PERSON
+Horrible-WORK_OF_ART
+three-CARDINAL
+Five-CARDINAL
+Ron-PERSON
+sixth-ORDINAL
+Hogwarts-WORK_OF_ART
+Bill-PERSON
+Charlie-PERSON
+Bill-PERSON
+Charlie-PERSON
+Quidditch-PERSON
+Percy-PERSON
+Fred-PERSON
+George-PERSON
+first-ORDINAL
+five-CARDINAL
+Bill’s old-PERSON
+Charlie-PERSON
+Percy-PERSON
+Ron-PERSON
+a month ago-DATE
+Ron-PERSON
+Dudley-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+first-ORDINAL
+Muggle-NORP
+London-GPE
+Ron-PERSON
+Harry-PERSON
+Mars-LOC
+Mars Bars-PERSON
+Bertie Bott-PERSON
+Every Flavor Beans, Drooble’s Best Blowing Gum-WORK_OF_ART
+Pumpkin Pasties-PERSON
+Cauldron Cakes-PERSON
+Licorice Wands-PERSON
+Harry-PERSON
+eleven-CARDINAL
+Sickles-GPE
+seven-CARDINAL
+Knuts-GPE
+Harry-PERSON
+Hungry-WORK_OF_ART
+Harry-PERSON
+pasty-GPE
+four-CARDINAL
+one-CARDINAL
+Harry-PERSON
+Ron-PERSON
+five-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Agrippa-PERSON
+about five 
+hundred-CARDINAL
+Agrippa-PERSON
+Ptolemy-PERSON
+Chocolate Frog-WORK_OF_ART
+Albus Dumbledore-PERSON
+Harry-PERSON
+Dumbledore-GPE
+Ron-PERSON
+Agrippa-PERSON
+Harry-PERSON
+DUMBLEDORE-ORG
+Dumbledore-GPE
+1945-DATE
+twelve-CARDINAL
+Nicolas Flamel-PERSON
+Dumbledore-PERSON
+ten-CARDINAL
+Dumbledore-PERSON
+all day-DATE
+Ron-PERSON
+Morgana-PERSON
+about six-CARDINAL
+Harry-PERSON
+Muggle-NORP
+Ron-PERSON
+Dumbledore-PERSON
+Ron-PERSON
+Harry-PERSON
+Morgana-PERSON
+Hengist-NORP
+Alberic Grunnion-NORP
+Circe-PERSON
+Merlin-PERSON
+Cliodna-PERSON
+Bertie-PERSON
+Bott-PERSON
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+nine-CARDINAL
+three-quarters-DATE
+Harry-PERSON
+Ron-PERSON
+Scabbers-PRODUCT
+Ron-PERSON
+Ron-PERSON
+yesterday-DATE
+Hogwarts-ORG
+Neville-GPE
+Ron-PERSON
+Ron-PERSON
+Hermione Granger-PERSON
+Ron-PERSON
+Ron Weasley-PERSON
+Ron-PERSON
+Harry Potter-WORK_OF_ART
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+Hermione-PERSON
+House-ORG
+Ravenclaw-GPE
+Neville-GPE
+two-CARDINAL
+Ron-PERSON
+George-PERSON
+House-ORG
+Harry-PERSON
+Ron-PERSON
+Dad-PERSON
+Ravenclaw-GPE
+Slytherin-PERSON
+House-ORG
+Ron-PERSON
+Scabbers-PRODUCT
+Harry-PERSON
+Ron-PERSON
+Charlie-PERSON
+Romania-GPE
+Bill-PERSON
+Africa-LOC
+Gringotts-PERSON
+Ron-PERSON
+Gringotts-PERSON
+Daily-PERSON
+Gringotts-GPE
+Voldemort-WORK_OF_ART
+Quidditch-NORP
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+four-CARDINAL
+seven-CARDINAL
+Harry-PERSON
+Neville-GPE
+Hermione Granger-PERSON
+Three-CARDINAL
+Harry-PERSON
+Malkin-PERSON
+Harry-PERSON
+Diagon Alley-ORG
+Harry Potter-PERSON
+Harry-PERSON
+Crabbe-PERSON
+Goyle-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Draco Malfoy-ORG
+Ron-PERSON
+Draco Malfoy-ORG
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Potter-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Crabbe-PERSON
+Goyle-PERSON
+Ron-PERSON
+the Chocolate Frogs-ORG
+Ron-PERSON
+Ron-PERSON
+Crabbe-ORG
+Malfoy-PERSON
+Scabbers-PERSON
+three-CARDINAL
+a second later-DATE
+Hermione Granger-PERSON
+Ron-PERSON
+Scabbers-PRODUCT
+Ron-PERSON
+Harry-PERSON
+Scabbers-GPE
+Malfoy-PERSON
+Diagon Alley-ORG
+Ron-PERSON
+first-ORDINAL
+Malfoy-PERSON
+Hermione-ORG
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+five minutes-TIME
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+sec-ORG
+Oooooh-PRODUCT
+four-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Neville-GPE
+Hermione-ORG
+Hagrid-PERSON
+Hagrid-PERSON
+first-ORDINAL
+Hagrid-PERSON
+Neville-GPE
+Hagrid-PERSON
+three-CARDINAL
+Harry-PERSON
+first-ORDINAL
+’ years-DATE
+McGonagall-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Dursleys-PERSON
+Gringotts-GPE
+McGonagall-PERSON
+Harry-PERSON
+hundreds-CARDINAL
+McGonagall-PERSON
+the first years-DATE
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+Welcome to Hogwarts-WORK_OF_ART
+McGonagall-WORK_OF_ART
+the Great Hall-FAC
+House-ORG
+House-ORG
+House-ORG
+House-ORG
+four-CARDINAL
+Hufflepuff-PERSON
+Ravenclaw-GPE
+Slytherin-PERSON
+House-ORG
+House-ORG
+House-ORG
+the end of the 
+year-DATE
+House-ORG
+House-ORG
+The Sorting Ceremony-WORK_OF_ART
+a few 
+minutes-TIME
+Neville-GPE
+Ron-PERSON
+Harry-PERSON
+McGonagall-WORK_OF_ART
+Harry-PERSON
+Houses-ORG
+Ron-PERSON
+Fred-PERSON
+Hermione Granger-PERSON
+Harry-PERSON
+Dursleys-PERSON
+second-ORDINAL
+McGonagall-PERSON
+About 
+twenty-CARDINAL
+the first years-DATE
+second-ORDINAL
+the first years-DATE
+the Fat Friar-PERSON
+Hufflepuff-PERSON
+Friar-ORG
+House-ORG
+McGonagall-PERSON
+One-CARDINAL
+one-CARDINAL
+McGonagall-PERSON
+the first 
+years-DATE
+Ron-PERSON
+the Great Hall-FAC
+thousands and thousands-CARDINAL
+over four-CARDINAL
+the first years-DATE
+hundreds-CARDINAL
+Harry-PERSON
+Hogwarts, A History-WORK_OF_ART
+the Great Hall-FAC
+four-CARDINAL
+the first years-DATE
+Harry-PERSON
+a few seconds-TIME
+Gryffindor-GPE
+Hufflepuff-GPE
+Hufflepuffs-PERSON
+Ravenclaw-GPE
+Slytherin 
+
+ 
+
+
+
+
+-PERSON
+four-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Fred-PERSON
+Harry-PERSON
+House-ORG
+McGonagall-PERSON
+Abbott-PERSON
+Hannah-PERSON
+Hufflepuff-PERSON
+the Fat Friar-FAC
+Bones-WORK_OF_ART
+Susan-PERSON
+Susan-PERSON
+Hannah-PERSON
+Boot-PERSON
+Terry-PERSON
+RAVENCLAW-WORK_OF_ART
+second-ORDINAL
+Ravenclaws-ORG
+Terry-PERSON
+Brocklehurst-WORK_OF_ART
+Mandy-ORG
+Ravenclaw-GPE
+Brown, Lavender-WORK_OF_ART
+first-ORDINAL
+Harry-PERSON
+Ron-PERSON
+Bulstrode, Millicent-WORK_OF_ART
+Harry-PERSON
+Slytherin-PERSON
+Dudley-PERSON
+Justin-PERSON
+Harry-PERSON
+Finnigan-PERSON
+Seamus-PERSON
+Harry-PERSON
+Granger, Hermione-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+Neville Longbottom-PERSON
+Neville-GPE
+Neville-GPE
+MacDougal-GPE
+Morag-GPE
+Crabbe-PERSON
+Goyle-PERSON
+Moon-WORK_OF_ART
+Potter, Harry-WORK_OF_ART
+Harry-PERSON
+The Harry Potter-WORK_OF_ART
+Harry-PERSON
+Next second-TIME
+Hmm-WORK_OF_ART
+Slytherin-PERSON
+Gryffindor-PERSON
+Slytherin-GPE
+Weasley-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Albus Dumbledore-PERSON
+Harry-PERSON
+the Chocolate Frog-WORK_OF_ART
+Harry-PERSON
+Quirrell-PERSON
+the Leaky Cauldron-LOC
+only four-CARDINAL
+Thomas, Dean-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+Gryffindor-PERSON
+Turpin-PERSON
+Lisa-PERSON
+Ravenclaw-GPE
+Ron-PERSON
+Harry-PERSON
+second-ORDINAL
+Ron-PERSON
+Ron-PERSON
+Percy Weasley-PERSON
+Harry-PERSON
+Zabini, Blaise-WORK_OF_ART
+Slytherin-PERSON
+McGonagall-PERSON
+Percy-ORG
+Percy-PERSON
+Harry-PERSON
+Yorkshire-PERSON
+Dursleys-PERSON
+Harry-PERSON
+Dudley-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+nearly five hundred years-DATE
+Nicholas de Mimsy-Porpington-PERSON
+Gryffindor Tower-FAC
+Ron-PERSON
+Nicholas de Mimsy-PERSON
+Nearly Headless-WORK_OF_ART
+Nicholas-PERSON
+Headless Nick-ORG
+this year-DATE
+the cup six years in a row-DATE
+The Bloody Baron-WORK_OF_ART
+Slytherin-PERSON
+Malfoy-PERSON
+Harry-PERSON
+Seamus-PERSON
+Nearly Headless Nick-PERSON
+jam doughnuts-PERSON
+0-CARDINAL
+Muggle-NORP
+Neville-GPE
+Ron-PERSON
+Neville-GPE
+Muggle-ORG
+My Great Uncle Algie kept-PERSON
+Enid-PERSON
+Page | 140-CARDINAL
+Harry Potter-PERSON
+the Philosophers Stone -J.K.-ORG
+Gran-PERSON
+Harry-PERSON
+Percy Weasley-PERSON
+Hermione-ORG
+Transfiguration-ORG
+Hagrid-PERSON
+McGonagall-PERSON
+Dumbledore-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Percy-GPE
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Percy-GPE
+Quirrell-PERSON
+Snape-PERSON
+Quirrell-PERSON
+the Dark Arts-ORG
+Snape-WORK_OF_ART
+Snape-LOC
+Ahem-WORK_OF_ART
+First-ORDINAL
+Weasley-PERSON
+Filch-PERSON
+the second week-DATE
+House-ORG
+Hooch-PERSON
+this year-DATE
+third--CARDINAL
+142-CARDINAL
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+Percy-GPE
+Percy-PERSON
+Dumbledore-GPE
+Dumbledore-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+Hoggy Warty Hogwarts-FAC
+Page | 143-PRODUCT
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+Weasley-PERSON
+one-CARDINAL
+first years-DATE
+the Great Hall-FAC
+Harry-PERSON
+Percy-PERSON
+Harry-PERSON
+Percy-PERSON
+the first years-DATE
+the Bloody Baron-ORG
+Oooooooh-WORK_OF_ART
+Percy-PERSON
+Neville-GPE
+Percy-PERSON
+The Bloody Baron-WORK_OF_ART
+Password-WORK_OF_ART
+Caput Draconis-WORK_OF_ART
+Percy-PERSON
+Neville-GPE
+Gryffindor-PERSON
+one-CARDINAL
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+five-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Scabbers-PRODUCT
+Ron-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Slytherin-PERSON
+Harry-PERSON
+Slytherin-PERSON
+Malfoy-PERSON
+Malfoy-ORG
+Harry woke-PERSON
+next day-DATE
+Harry-PERSON
+the next day-DATE
+tiptoe-GPE
+Harry-PERSON
+a hundred and forty-two-CARDINAL
+Friday-DATE
+Harry Potter-PERSON
+the Philosophers Stone -J.K.-ORG
+Harry-PERSON
+one-CARDINAL
+Nearly Headless Nick 
+-PERSON
+two-CARDINAL
+Argus Filch-PERSON
+Harry-PERSON
+Ron-PERSON
+first-ORDINAL
+third-ORDINAL
+Quirrell-PERSON
+Norris-PERSON
+one-CARDINAL
+Filch-ORG
+two 
+seconds later-TIME
+Harry Potter-PERSON
+the Philosophers Stone -J.K.-ORG
+Norris-PERSON
+Harry-PERSON
+midnight-TIME
+Three-CARDINAL
+Flitwick-PERSON
+Charms-ORG
+first-ORDINAL
+Harry-PERSON
+McGonagall-PERSON
+Harry-PERSON
+first-ORDINAL
+Hogwarts-WORK_OF_ART
+Hermione-PERSON
+McGonagall-PERSON
+Quirrell-PERSON
+Romania-GPE
+these 
+days-DATE
+African-NORP
+one-CARDINAL
+Seamus-PERSON
+Finnigan-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Weasley-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Muggle-NORP
+Ron-PERSON
+Friday-DATE
+an important day-DATE
+Harry-PERSON
+Ron-PERSON
+today-DATE
+Harry-PERSON
+Ron-PERSON
+Double Potions with the Slytherins-WORK_OF_ART
+Ron-PERSON
+Snape’s Head of Slytherin House-WORK_OF_ART
+Wish McGonagall-WORK_OF_ART
+Harry-PERSON
+McGonagall-PERSON
+Gryffindor House-ORG
+the day before-DATE
+Harry-PERSON
+first-ORDINAL
+about a hundred-CARDINAL
+the Great Hall-FAC
+Harry-PERSON
+This morning-TIME
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Friday-DATE
+afternoons-TIME
+around three-CARDINAL
+first week-DATE
+Hedwig-PERSON
+Ron-PERSON
+Hedwig-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Snape-PERSON
+first-ORDINAL
+Harry-PERSON
+one-CARDINAL
+Flitwick-ORG
+Flitwick-ORG
+Harry-PERSON
+Harry Potter-WORK_OF_ART
+Draco Malfoy-ORG
+Crabbe-PERSON
+Goyle-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+McGonagall-PERSON
+Snape-LOC
+Harry-PERSON
+Ron-PERSON
+Snape-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Tut-PERSON
+Hermione-ORG
+Harry-PERSON
+Malfoy-PERSON
+Crabbe-PERSON
+Goyle-PERSON
+Potter-PERSON
+Dursleys-PERSON
+One Thousand-CARDINAL
+Hermione-ORG
+Potter-PERSON
+Hermione-ORG
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+Seamus-PERSON
+Seamus-PERSON
+Hermione-ORG
+Potter-PERSON
+Draught of Living Death-WORK_OF_ART
+Snape-PERSON
+Gryffindor House-ORG
+Malfoy-PERSON
+Malfoy-PERSON
+Neville-GPE
+Seamus-PERSON
+Neville-GPE
+one-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Neville-GPE
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+two-CARDINAL
+first-ORDINAL
+Snape-PERSON
+Ron-PERSON
+Fred and-PERSON
+George-PERSON
+Hagrid-PERSON
+five to three-CARDINAL
+Harry-PERSON
+Hagrid-PERSON
+Back, Fang — back-WORK_OF_ART
+Fang-PERSON
+Hams-PERSON
+Hagrid-PERSON
+Fang-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Fang-PERSON
+Ron-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Another Weasley-WORK_OF_ART
+Hagrid-PERSON
+Ron-PERSON
+half-CARDINAL
+Harry-PERSON
+Ron-PERSON
+first-ORDINAL
+Fang-PERSON
+Harry’s knee-PERSON
+Ron-PERSON
+Norris-PERSON
+Fang-NORP
+Hagrid-PERSON
+Snape-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Harry-PERSON
+Snape-LOC
+Hagrid-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Charlie-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Charlie-PERSON
+Harry-PERSON
+the Daily Prophet-WORK_OF_ART
+Gringotts-GPE
+3 1 July-DATE
+Dark-ORG
+today-DATE
+the same day-DATE
+Gringotts-GPE
+this afternoon-TIME
+Ron-PERSON
+Gringotts-PERSON
+Ron-PERSON
+Harry-PERSON
+Gringotts-PERSON
+Harry-PERSON
+Harry-PERSON
+earlier that same day-DATE
+Hagrid-PERSON
+seven-CARDINAL
+thirteen-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Snape-LOC
+Harry-PERSON
+9-CARDINAL
+Dudley-PERSON
+first-year-DATE
+Slytherins-PERSON
+Malfoy-PERSON
+Thursday-DATE
+Slytherin-PERSON
+Harry-PERSON
+Malfoy-ORG
+Ron-PERSON
+Malfoy-ORG
+Quidditch-PERSON
+Page | 160-PRODUCT
+Harry Potter-PERSON
+the Philosophers Stone -J.K.-ORG
+about first years-DATE
+House-ORG
+Quidditch-PRODUCT
+Seamus Finnigan-PERSON
+Ron-PERSON
+Charlie-PERSON
+Quidditch-PERSON
+Ron-PERSON
+Dean-PERSON
+Thomas-PERSON
+Ron-PERSON
+only one-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Dean-PERSON
+West Ham-GPE
+Harry-PERSON
+Neville-GPE
+Hermione Granger-PERSON
+Neville-GPE
+Thursday-DATE
+Quidditch Through the Ages-WORK_OF_ART
+Neville-ORG
+Hermione-PERSON
+Hagrid-PERSON
+Malfoy-PERSON
+Malfoy-PERSON
+Slytherin-PERSON
+Neville-GPE
+Draco Malfoy-ORG
+Gryffindor-PERSON
+Ron-PERSON
+half-CARDINAL
+Malfoy-ORG
+Malfoy-PERSON
+Remembrall-PERSON
+Malfoy-PERSON
+Crabbe-PERSON
+Goyle-PERSON
+three-thirty that afternoon-TIME
+Harry-PERSON
+Ron-PERSON
+first-ORDINAL
+Slytherins-PERSON
+twenty-CARDINAL
+Harry-PERSON
+Fred-PERSON
+George Weasley-PERSON
+Hooch-PERSON
+Hooch-PERSON
+one-CARDINAL
+Hermione Granger’s-PERSON
+Neville-GPE
+Harry-PERSON
+Neville-GPE
+Hooch-PERSON
+Harry-PERSON
+Ron-PERSON
+Malfoy-PERSON
+years-DATE
+Hooch-PERSON
+a few feet-QUANTITY
+three-CARDINAL
+Neville-GPE
+Hooch-PERSON
+Neville-GPE
+twelve 
+feet-QUANTITY
+twenty feet-QUANTITY
+Harry-PERSON
+Neville-GPE
+Hooch-PERSON
+Neville-GPE
+Quidditch-PERSON
+Hooch-PERSON
+Malfoy-PERSON
+Slytherins-NORP
+Malfoy-PERSON
+Parvati Patil-ORG
+Longbottom-PERSON
+Malfoy-PERSON
+Longbottom-PERSON
+Remembrall-PERSON
+Malfoy-PERSON
+Harry quietly-PERSON
+Longbottom-PERSON
+Harry-PERSON
+Malfoy-PERSON
+iVo-WORK_OF_ART
+Hermione Granger-PERSON
+Hooch-PERSON
+Harry-ORG
+Ron-PERSON
+Malfoy-PERSON
+Malfoy-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Malfoy-ORG
+Harry-PERSON
+Crabbe-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Remembrall-PERSON
+McGonagall-PERSON
+Patil-PERSON
+Malfoy-PERSON
+Weasley-PERSON
+Malfoy-ORG
+Crabbe-PERSON
+Goyle-PERSON
+McGonagall-WORK_OF_ART
+McGonagall-PERSON
+two weeks-DATE
+ten minutes-TIME
+McGonagall-PERSON
+Harry-PERSON
+Dumbledore-GPE
+Hagrid-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Hagrid-PERSON
+McGonagall-PERSON
+Flitwick-PERSON
+Wood-ORG
+Harry-PERSON
+Wood-ORG
+Wood-ORG
+fifth-year-DATE
+Flitwick-ORG
+two-CARDINAL
+McGonagall-PERSON
+Wood-ORG
+Harry-GPE
+McGonagall-PERSON
+McGonagall-PERSON
+two-CARDINAL
+Potter, this is Oliver Wood-WORK_OF_ART
+McGonagall-PERSON
+first-ORDINAL
+Potter-PERSON
+fifty-foot-QUANTITY
+McGonagall-PERSON
+Wood-ORG
+Charlie Weasley-PERSON
+Quidditch, Potter-ORG
+Gryffindor-PERSON
+Seeker-PERSON
+Wood-ORG
+Harry-PERSON
+Seven-CARDINAL
+Dumbledore-PERSON
+first-year-DATE
+last year-DATE
+Slytherin-PERSON
+Severus Snape-WORK_OF_ART
+weeks-DATE
+McGonagall-WORK_OF_ART
+Harry-GPE
+Potter-PERSON
+Quidditch-NORP
+Harry-PERSON
+Ron-PERSON
+McGonagall-PERSON
+Ron-PERSON
+Seeker-WORK_OF_ART
+first years-DATE
+House-ORG
+a century-DATE
+Harry-PERSON
+Ron-PERSON
+Harry-GPE
+next week-DATE
+Harry-PERSON
+Wood-ORG
+George Weasley-PERSON
+Harry-PERSON
+George-PERSON
+Beaters-ORG
+Quidditch Cup-PERSON
+this year-DATE
+Fred-PERSON
+Charlie-PERSON
+this year-DATE
+Harry-PERSON
+Wood-PERSON
+Lee Jordan-PERSON
+Gregory-PERSON
+our first week-DATE
+George-PERSON
+Malfoy-PERSON
+Crabbe-PERSON
+Goyle-PERSON
+Potter-PERSON
+Muggles-GPE
+Harry-PERSON
+Crabbe-PERSON
+Goyle-PERSON
+Malfoy-PERSON
+Tonight-TIME
+Wizard-ORG
+Ron-PERSON
+second-ORDINAL
+Crabbe-ORG
+Goyle-PERSON
+Crabbe-PERSON
+Midnight-WORK_OF_ART
+Malfoy-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+second-ORDINAL
+second-ORDINAL
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione Granger-PERSON
+Ron-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Ron-PERSON
+night-TIME
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Dean-PERSON
+Neville-GPE
+Ron-PERSON
+Filch-ORG
+Harry-PERSON
+today-DATE
+Malfoy-PERSON
+Half-past eleven-DATE
+Ron-PERSON
+Harry-PERSON
+Hermione Granger-PERSON
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+Gryffindor-PERSON
+Slytherin-PERSON
+McGonagall-PERSON
+tomorrow-DATE
+Gryffindor Tower-FAC
+Ron-PERSON
+Hermione-ORG
+three-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Norris-PERSON
+Ron-PERSON
+Norris-PERSON
+Neville-GPE
+Neville-GPE
+Harry-PERSON
+Fine-WORK_OF_ART
+Neville-GPE
+Pomfrey-PERSON
+about a minute-TIME
+Neville-GPE
+Neville-GPE
+the Bloody Baron-ORG
+Ron-PERSON
+Neville-GPE
+Curse of the Bogies Quirrell-ORG
+Ron-PERSON
+the Curse of the Bogies-WORK_OF_ART
+Harry-PERSON
+Harry-PERSON
+Filch-GPE
+Norris-PERSON
+third-ORDINAL
+Crabbe-PERSON
+Harry-PERSON
+Malfoy-PERSON
+minutes-TIME
+Ron-PERSON
+Malfoy-PERSON
+Sniff-ORG
+Norris-PERSON
+Horror-struck-PERSON
+Harry-PERSON
+three-CARDINAL
+Filch-ORG
+Neville-GPE
+Filch-PERSON
+Neville-GPE
+Ron-PERSON
+Harry-PERSON
+four-CARDINAL
+one-CARDINAL
+Harry-PERSON
+Harry-PERSON
+Neville-GPE
+Gryffindor Tower-FAC
+Ron-PERSON
+Harry-PERSON
+Malfoy-PERSON
+more than a dozen-CARDINAL
+around at midnight-TIME
+Ickle Firsties-ORG
+Tut-PERSON
+Should tell Filch-WORK_OF_ART
+Ron-PERSON
+STUDENTS OUT OF BED-WORK_OF_ART
+STUDENTS OUT OF BED DOWN THE CHARMS 
+CORRIDOR-WORK_OF_ART
+Ron-PERSON
+Filch-PERSON
+Harry-PERSON
+Filch-PERSON
+Peeves-PERSON
+Haaaaaa-PERSON
+Filch-PERSON
+Harry-PERSON
+Neville-GPE
+Neville-GPE
+Harry-PERSON
+last minute-TIME
+third-ORDINAL
+three-CARDINAL
+Three-CARDINAL
+three-CARDINAL
+three-CARDINAL
+six-CARDINAL
+Harry-PERSON
+Filch-PERSON
+Filch-GPE
+Harry-PERSON
+the Fat Lady on the-WORK_OF_ART
+seventh-ORDINAL
+Harry-PERSON
+Neville-GPE
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Gringotts-PERSON
+Harry-PERSON
+seven hundred-CARDINAL
+thirteen-CARDINAL
+10-CARDINAL
+Harry-PERSON
+Ron-PERSON
+the next day-DATE
+next morning-TIME
+Harry-PERSON
+Ron-PERSON
+three-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Gringotts-PERSON
+Hogwarts-GPE
+Ron-PERSON
+Harry-PERSON
+about two inches-QUANTITY
+Page | 183-PRODUCT
+Harry Potter-PERSON
+the Philosophers Stone-ORG
+Neville-GPE
+Harry-PERSON
+Ron-PERSON
+Malfoy-PERSON
+about a week later-DATE
+the Great Hall-FAC
+six-CARDINAL
+Harry 
+-PERSON
+first-ORDINAL
+Nimbus-ORG
+Two Thousand-CARDINAL
+Oliver Wood-PERSON
+tonight-TIME
+Quidditch-NORP
+seven 
+o’clock-TIME
+first-ORDINAL
+M. McGonagall-PERSON
+Harry-PERSON
+Ron-PERSON
+A Nimbus Two Thousand-WORK_OF_ART
+Ron-PERSON
+first-ORDINAL
+Crabbe-PERSON
+Goyle-PERSON
+Malfoy-ORG
+Harry-PERSON
+Harry-PERSON
+Potter-PERSON
+first years-DATE
+Ron-PERSON
+Nimbus-ORG
+Two Thousand-CARDINAL
+Malfoy-PERSON
+a Comet Two Sixty-PRODUCT
+Ron-PERSON
+Harry-PERSON
+Nimbus-ORG
+Weasley-PERSON
+half-CARDINAL
+Malfoy-PERSON
+Ron-PERSON
+Flitwick-PERSON
+Malfoy-ORG
+Malfoy-PERSON
+Professor Flitwick-PERSON
+Harry-PERSON
+McGonagall-PERSON
+Potter-PERSON
+A Nimbus Two Thousand-WORK_OF_ART
+Harry-PERSON
+Malfoy-PERSON
+Malfoy-PERSON
+Ron-PERSON
+Malfoy-ORG
+Harry-PERSON
+Neville’s-WORK_OF_ART
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+that day-DATE
+Quidditch-NORP
+that night-TIME
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+seven o’clock-DATE
+Harry-PERSON
+Quidditch-NORP
+Hundreds-CARDINAL
+three-CARDINAL
+Harry-PERSON
+Muggle-NORP
+fifty feet-QUANTITY
+Hey, Potter-WORK_OF_ART
+Harry-PERSON
+Wood-PERSON
+this evening-TIME
+three-CARDINAL
+four-CARDINAL
+Wood-ORG
+Quidditch-PERSON
+seven-CARDINAL
+Three-CARDINAL
+Three Chasers-WORK_OF_ART
+Wood-ORG
+Quaffle-ORG
+Wood-ORG
+Quaffle-ORG
+Ten-CARDINAL
+Quaffle-ORG
+one-CARDINAL
+The Chasers throw the Quaffle-WORK_OF_ART
+Harry-PERSON
+six-CARDINAL
+Wood-ORG
+Harry quickly-PERSON
+Keeper-PERSON
+Gryffindor-PERSON
+Three-CARDINAL
+Keeper-GPE
+Harry-PERSON
+Quaffle-ORG
+three-CARDINAL
+Wood-ORG
+Harry-PERSON
+Bludgers-PERSON
+two-CARDINAL
+Bludgers-FAC
+Harry-PERSON
+Quaffle-PERSON
+Harry-PERSON
+Harry-PERSON
+Bludgers-PERSON
+Harry-PERSON
+Harry swung-PERSON
+Wood-ORG
+two-CARDINAL
+Weasley-PERSON
+Bludgers-LOC
+Three-CARDINAL
+Quaffle-ORG
+Beaters-ORG
+Wood-ORG
+Bludgers-PERSON
+Harry-PERSON
+Never at Hogwarts-WORK_OF_ART
+Quaffle-PERSON
+Bludgers-PERSON
+fourth-ORDINAL
+Quaffle-ORG
+Wood-ORG
+the Golden Snitch-ORG
+Chasers-PERSON
+Beaters-ORG
+Quaffle-ORG
+Seeker-ORG
+Snitch-NORP
+hundred and fifty-CARDINAL
+Snitch-NORP
+three 
+months-DATE
+Wood-ORG
+a few minutes later-TIME
+Harry-PERSON
+Harry-PERSON
+Wood-ORG
+half an hour-TIME
+this year-DATE
+Wood-ORG
+Charlie Weasley-PERSON
+England-GPE
+Quidditch-NORP
+three evenings a week-DATE
+Harry-PERSON
+Hogwarts-ORG
+two months-DATE
+Privet Drive-LOC
+Halloween morning-TIME
+Flitwick-PERSON
+Charms-GPE
+Neville-GPE
+Flitwick-PERSON
+Harry-PERSON
+Seamus Finnigan-PERSON
+Neville-GPE
+Ron-PERSON
+Hermione Granger-PERSON
+Ron-PERSON
+Hermione-PERSON
+the day-DATE
+Harry-PERSON
+Flitwick-PERSON
+Swish-NORP
+Wizard Baruffio-PERSON
+‘s-ORG
+Harry-PERSON
+Seamus-PERSON
+Harry-PERSON
+Harry heard Hermione-PERSON
+It’s Wing-gar-dium Levi-o-sa-WORK_OF_ART
+Ron-PERSON
+about four-CARDINAL
+Flitwick-PERSON
+Miss Granger-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+all afternoon-TIME
+Halloween-DATE
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+the Great Hall-FAC
+Halloween-DATE
+Hermione-ORG
+A thousand-CARDINAL
+a thousand-CARDINAL
+Quirrell-PERSON
+Dumbledore-PERSON
+Troll-WORK_OF_ART
+first years-DATE
+Harry-PERSON
+Ron-PERSON
+Halloween-DATE
+Hufflepuffs-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Search me-WORK_OF_ART
+Snape-LOC
+third-ORDINAL
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Twelve feet-QUANTITY
+Ron-PERSON
+one-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Harry gasped-PERSON
+Hermionel-WORK_OF_ART
+Harry-PERSON
+Hermione Granger-PERSON
+Harry-PERSON
+Ron-PERSON
+a few feet-QUANTITY
+Hermione-ORG
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Hermione-ORG
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+Harry-PERSON
+second-ORDINAL
+fright-CARDINAL
+Ron-PERSON
+first-ORDINAL
+Ron-PERSON
+Hermione-PERSON
+first-ORDINAL
+Harry-PERSON
+three-CARDINAL
+McGonagall-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+McGonagall-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+fifty-CARDINAL
+Gryffindor-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Hermione Granger-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+McGonagall-PERSON
+three-CARDINAL
+Miss Granger-PERSON
+Harry-PERSON
+Snape-PERSON
+Miss Granger-PERSON
+five-CARDINAL
+McGonagall-PERSON
+Gryffindor Tower-FAC
+Houses-ORG
+McGonagall-PERSON
+Harry-PERSON
+Ron-PERSON
+first-ORDINAL
+five-CARDINAL
+two-CARDINAL
+more than ten-CARDINAL
+Ron-PERSON
+Five-CARDINAL
+Hermione-ORG
+Ron-PERSON
+Harry-PERSON
+Hermione-PERSON
+Hermione Granger-PERSON
+twelve-foot-QUANTITY
+QUIDDITCH-PERSON
+November-DATE
+Every morning-TIME
+Quidditch-NORP
+Saturday-DATE
+Harry-PERSON
+first-ORDINAL
+weeks-DATE
+second-ORDINAL
+the 
+House Championship-FAC
+Harry-PERSON
+Wood-ORG
+Harry-PERSON
+Seeker-PERSON
+Harry-PERSON
+Harry-PERSON
+Hermione-PERSON
+Quidditch-NORP
+Quidditch Through-PERSON
+seven hundred-CARDINAL
+Quidditch-PERSON
+World Cup-EVENT
+1473-DATE
+Quidditch-NORP
+Quidditch-PERSON
+the Sahara Desert-LOC
+Harry-PERSON
+Ron-PERSON
+The day-DATE
+Harry-PERSON
+first-ORDINAL
+Quidditch-NORP
+three-CARDINAL
+Snape-PERSON
+Harry-PERSON
+Snape-PERSON
+Harry-PERSON
+Ron-PERSON
+Snape-PERSON
+Potter-PERSON
+Quidditch Through-PERSON
+Harry-PERSON
+Snape-PERSON
+Five-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+Quidditch Through-PERSON
+tomorrow-DATE
+Snape-LOC
+Ron-PERSON
+Hermione-PERSON
+Harry-PERSON
+Snape-LOC
+Filch-ORG
+One-CARDINAL
+three-CARDINAL
+Harry gulped-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+three-CARDINAL
+Halloween-DATE
+Honestly, Hermione-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+Snape-LOC
+Neville-GPE
+Harry-PERSON
+first-ORDINAL
+Quidditch-NORP
+a few hours-TIME
+Harry-PERSON
+The next morning-TIME
+Great Hall-FAC
+Quidditch-NORP
+Hermione-ORG
+an hour-TIME
+Seamus 
+Finnigan-PERSON
+Thanks, Seamus-WORK_OF_ART
+Harry-PERSON
+Seamus-PERSON
+eleven o’clock-TIME
+Quidditch-NORP
+Ron-PERSON
+Hermione-PERSON
+Neville-GPE
+Seamus-PERSON
+Dean-PERSON
+West Ham-LOC
+the top row-DATE
+Harry-PERSON
+Scabbers-PRODUCT
+Potter-PERSON
+Dean-PERSON
+Harry-PERSON
+Quidditch-NORP
+Chaser Angelina Johnson-PERSON
+Fred Weasley-PERSON
+George-PERSON
+Oliver-PERSON
+Fred-PERSON
+Harry-PERSON
+last year-DATE
+two-CARDINAL
+Wood-ORG
+years-DATE
+Fred-PERSON
+George-PERSON
+Hooch-PERSON
+two-CARDINAL
+Harry-PERSON
+Slytherin Captain-PERSON
+Marcus Flint-PERSON
+a fifth year-DATE
+Harry-PERSON
+Flint-GPE
+Potter-ORG
+Nimbus Two Thousand-ORG
+Hooch-PERSON
+Fifteen-CARDINAL
+Quaffle-ORG
+Angelina-PERSON
+Johnson-PERSON
+Gryffindor-PERSON
+Chaser-PERSON
+Sorry, Professor-WORK_OF_ART
+Lee Jordan-PERSON
+McGonagall-PERSON
+Alicia Spinnet-PERSON
+Oliver Wood-PERSON
+last 
+year-DATE
+Johnson-PERSON
+Quaffle-PERSON
+Slytherin Captain-PERSON
+Marcus Flint-PERSON
+Quaffle-ORG
+Gryffindor Keeper-PERSON
+Quaffle-ORG
+Katie Bell-PERSON
+Flint-GPE
+OUCH-ORG
+Slytherins-PERSON
+Adrian Pucey-PERSON
+second-ORDINAL
+Bludger-PRODUCT
+George Weasley-PERSON
+the Gryffindor Beater-ORG
+Johnson-PERSON
+Quaffle-ORG
+Angelina-PERSON
+Keeper Bletchley-PERSON
+Slytherins-NORP
+Ron-PERSON
+Hermione-ORG
+Bin-PERSON
+Hagrid-PERSON
+Snitch-NORP
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Snitch-NORP
+Wood-ORG
+Angelina-PERSON
+Harry-PERSON
+Snitch-NORP
+Harry-PERSON
+Fred Weasley-PERSON
+Harry-PERSON
+Bludger-PERSON
+Marcus Flint-PERSON
+Lee Jordan-PERSON
+Chaser Pucey-WORK_OF_ART
+two-CARDINAL
+two-CARDINAL
+Chaser Bell-PERSON
+Snitch-NORP
+Adrian-NORP
+Quaffle-PERSON
+Slytherin Seeker-PERSON
+Higgs-PERSON
+Snitch-NORP
+Chasers-ORG
+Harry-PERSON
+Higgs-ORG
+Marcus Flint-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Foul-WORK_OF_ART
+Gryffindors-ORG
+Hooch-PERSON
+Flint-GPE
+Gryffindor-PERSON
+the Golden Snitch-ORG
+Dean Thomas-PERSON
+Dean-PERSON
+Ron-PERSON
+Dean-PERSON
+Dean-PERSON
+Ron-PERSON
+Dean-PERSON
+Lee Jordan-PERSON
+Jordan-GPE
+McGonagall-PERSON
+Jordan-PERSON
+Gryffindor-PERSON
+Harry-PERSON
+Bludger-GPE
+second-ORDINAL
+Nimbus Two Thousands-PERSON
+Harry-PERSON
+half-CARDINAL
+Wood-ORG
+Lee-PERSON
+Quaffle-ORG
+Bell-ORG
+Bludger-PERSON
+Slytherins-PERSON
+Harry-PERSON
+Dunno what Harry thinks-WORK_OF_ART
+Harry-ORG
+Harry-PERSON
+Harry swung-PERSON
+Flint-PERSON
+Can’t have-WORK_OF_ART
+Hagrid-PERSON
+Thousand-CARDINAL
+Hermione-ORG
+Hagrid-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Marcus Flint-PERSON
+Quaffle-PERSON
+five-CARDINAL
+Ron-PERSON
+Quirrell-PERSON
+Reaching Snape-PERSON
+Snape-LOC
+perhaps thirty seconds-TIME
+Harry-PERSON
+Neville-GPE
+Ron-PERSON
+Neville-GPE
+Hagrid-PERSON
+the last five minutes-TIME
+Snitch-NORP
+Flint-PERSON
+twenty minutes later-TIME
+Harry-PERSON
+Lee-PERSON
+Jordan-PERSON
+one hundred and seventy-CARDINAL
+sixty-CARDINAL
+Harry-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Hermione-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Hermione-ORG
+Harry-PERSON
+Hagrid-PERSON
+three-CARDINAL
+Halloween-DATE
+Fluffy-ORG
+Fluffy-WORK_OF_ART
+Greek-NORP
+Harry-PERSON
+Hagrid gruffly-PERSON
+But Snape-WORK_OF_ART
+Snape’s a Hogwarts-WORK_OF_ART
+Harry-PERSON
+afternoon-TIME
+Snape-LOC
+Hagrid-PERSON
+yeh-PERSON
+yer-PERSON
+Hagrid-PERSON
+Harry-PERSON
+three-CARDINAL
+yeh-PERSON
+yer meddlin-PERSON
+don-PERSON
+yeh-PERSON
+Nicolas Flamel-PERSON
+Harry-PERSON
+Nicolas-PERSON
+One morning-TIME
+December-DATE
+Hogwarts-ORG
+several feet-QUANTITY
+Quirrell-FAC
+the Great Hall-FAC
+Snape-PERSON
+Draco Malfoy-PERSON
+one-CARDINAL
+Christmas-DATE
+Harry-PERSON
+Crabbe-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Slytherins-PERSON
+Harry-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Harry-PERSON
+Harry-PERSON
+Privet-PERSON
+Christmas-DATE
+McGonagall-PERSON
+the week before-DATE
+the holidays-DATE
+Harry-PERSON
+Christmas-DATE
+Ron-PERSON
+Weasley-PERSON
+Romania-GPE
+Charlie-PERSON
+Two enormous feet-QUANTITY
+Hagrid-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Ron-PERSON
+Malfoy-PERSON
+Weasley-PERSON
+Hagrid-PERSON
+Malfoy-ORG
+Ron-PERSON
+Malfoy-PERSON
+Snape-PERSON
+Hagrid-PERSON
+Malfoy-PERSON
+Snape-PERSON
+Five-CARDINAL
+Weasley-PERSON
+Crabbe-PERSON
+Ron-PERSON
+Malfoy-ORG
+one of these days-DATE
+Harry-PERSON
+Malfoy and Snape-WORK_OF_ART
+Great Hall-FAC
+three-CARDINAL
+Hagrid-PERSON
+the Great Hall-FAC
+McGonagall-PERSON
+Flitwick-PERSON
+Christmas-DATE
+Ah, Hagrid-WORK_OF_ART
+hundreds-CARDINAL
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Flitwick-PERSON
+Hagrid-PERSON
+the 
+hall-FAC
+yeh-PERSON
+Harry-PERSON
+Nicolas Flamel-PERSON
+yeh-PERSON
+Nicolas Flamel-PERSON
+Hermione-PERSON
+Harry-PERSON
+hundreds-CARDINAL
+Hagrid-PERSON
+Ron-PERSON
+Flamel-ORG
+Hagrid-PERSON
+Snape-PERSON
+Flamel-ORG
+the Twentieth Century-EVENT
+Wizardry-GPE
+tens-CARDINAL
+thousands-CARDINAL
+thousands-CARDINAL
+hundreds-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Flamel-ORG
+Defense Against the Dark Arts-WORK_OF_ART
+Harry-PERSON
+Pince-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Flamel-ORG
+two-CARDINAL
+two weeks-DATE
+Five minutes later-TIME
+Ron-PERSON
+Hermione-ORG
+Hermione-ORG
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Harry-PERSON
+Flamel-ORG
+hour-TIME
+English-NORP
+Malfoy-PERSON
+Ron-PERSON
+Harry-GPE
+Muggle-ORG
+Ron-PERSON
+Ron-PERSON
+Seamus Finnigan-PERSON
+Christmas Eve-DATE
+Harry-PERSON
+the next day-DATE
+first-ORDINAL
+Merry Christmas-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+second-ORDINAL
+Christmas-DATE
+Uncle Vernon and Aunt Petunia-ORG
+fifty-pence-MONEY
+Harry-PERSON
+Ron-PERSON
+fifty pence-MONEY
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Every year-DATE
+Ron-PERSON
+Harry-PERSON
+Frogs-PERSON
+Hermione-ORG
+one-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+Christmas-DATE
+Harry-PERSON
+Ron-PERSON
+anuthinq-PERSON
+one-CARDINAL
+Anuthinq-PERSON
+Harry-PERSON
+Fred-PERSON
+George-PERSON
+Harry-PERSON
+Merry Christmas-WORK_OF_ART
+Harry-PERSON
+Weasley sweater-PERSON
+George-PERSON
+G. 
+
+-PERSON
+Harry-WORK_OF_ART
+Fred-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+George-PERSON
+Percy Weasley-PERSON
+Fred-NORP
+Percy-PERSON
+Harry-PERSON
+Percy thickly-PERSON
+today-DATE
+George-PERSON
+Christmas-DATE
+A hundred-CARDINAL
+chipolatas-GPE
+every few feet-QUANTITY
+Muggle-NORP
+Dursleys-PERSON
+Harry-PERSON
+Fred-PERSON
+Dumbledore-PERSON
+Christmas-DATE
+Harry-PERSON
+McGonagall-PERSON
+Harry-PERSON
+Harry-PERSON
+The white mice-ORG
+Harry-PERSON
+Christmas-DATE
+Gryffindor-PERSON
+Harry-PERSON
+Ron-PERSON
+Percy 
+-PRODUCT
+Fred-PERSON
+George-PERSON
+Gryffindor Tower-FAC
+Harry-PERSON
+Christmas day-DATE
+turkey-GPE
+four-CARDINAL
+Harry-PERSON
+Harry-PERSON
+Filch-ORG
+first-ORDINAL
+Harry-PERSON
+Flamel-ORG
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+One-CARDINAL
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+Filch-PERSON
+Filch-PERSON
+Harry-PERSON
+Filch-PERSON
+five-CARDINAL
+Harry-PERSON
+a few seconds-TIME
+two-CARDINAL
+cafru oyt-PERSON
+Harry-PERSON
+ten-CARDINAL
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+first-ORDINAL
+Harry-PERSON
+half-CARDINAL
+half-CARDINAL
+Ron-PERSON
+tonight-TIME
+Ron-PERSON
+Ron-PERSON
+this summer-DATE
+Harry-PERSON
+tonight-TIME
+Flamel-ORG
+three-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+the next night-TIME
+Harry-PERSON
+nearly an hour-TIME
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Look!-WORK_OF_ART
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+Bill-PERSON
+the House Cup-EVENT
+the Quidditch Cup-WORK_OF_ART
+Harry-GPE
+the Quidditch Cup-EVENT
+Ron-PERSON
+Norris-PERSON
+Ron-PERSON
+Filch-PERSON
+Ron-PERSON
+Harry-PERSON
+the next morning-TIME
+Harry-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Harry-PERSON
+tonight-TIME
+Snape-WORK_OF_ART
+Norris-PERSON
+Hermione-ORG
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+Ron-PERSON
+third-ORDINAL
+all night-TIME
+Harry-PERSON
+Albus Dumbledore-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+hundreds-CARDINAL
+the Mirror of Erised-ORG
+Ron-PERSON
+Head Boy-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+Ronald Weasley-PERSON
+Mirror-ORG
+tomorrow-DATE
+Harry-PERSON
+Dumbledore-PERSON
+one-CARDINAL
+Christmas-DATE
+Dumbledore-PERSON
+NICHOLAS FLAMBL-PERSON
+Harry-PERSON
+the Mirror of Erised-ORG
+the 
+Christmas-DATE
+Invisibility Cloak-PERSON
+Harry-PERSON
+You see, Dumbledore-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+the day-DATE
+Harry-PERSON
+three nights-TIME
+If Filch-WORK_OF_ART
+Nicolas Flamel-PERSON
+Flamel-ORG
+Harry-PERSON
+ten minutes-TIME
+Harry-PERSON
+two-CARDINAL
+Quidditch-PERSON
+Weasleys-PERSON
+Harry-PERSON
+Hufflepuff-PERSON
+Slytherin-PERSON
+first-ORDINAL
+seven years-DATE
+Harry-PERSON
+one-CARDINAL
+Wood-ORG
+George Weasley-PERSON
+Snape-WORK_OF_ART
+Slytherin-PERSON
+George-PERSON
+Wood-ORG
+Snape-LOC
+Harry-PERSON
+Snape-LOC
+Quidditch-PERSON
+Harry-PERSON
+Gryffindor-PERSON
+Ron-PERSON
+Hermione-PERSON
+Hermione-ORG
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+two-CARDINAL
+Snape-LOC
+Quidditch-NORP
+Hermione-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Seeker-PERSON
+Neville-GPE
+the Leg-Locker Curse-ORG
+Gryffindor Tower-FAC
+Hermione-PERSON
+Neville-GPE
+Harry-PERSON
+Ron-PERSON
+Neville-GPE
+Go to Professor McGonagall-WORK_OF_ART
+Neville-GPE
+Neville-GPE
+Neville-GPE
+Ron-PERSON
+Gryffindor-GPE
+Malfoy-PERSON
+Neville-GPE
+Christmas-DATE
+Neville-GPE
+twelve-CARDINAL
+Malfoy-PERSON
+Harry-PERSON
+Gryffindor-PERSON
+Malfoy-PERSON
+Slytherin-PERSON
+Neville-GPE
+Thanks, Harry-WORK_OF_ART
+Neville-GPE
+Harry-PERSON
+Wizard-WORK_OF_ART
+first-ORDINAL
+Ron-PERSON
+Hermione-PERSON
+1945-DATE
+twelve-CARDINAL
+Nicolas Flamel’V’ 
+
+-PERSON
+first-ORDINAL
+Harry-PERSON
+Ron-PERSON
+the library weeks ago-DATE
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Nicolas Flamel-PERSON
+Sorcerer-LOC
+Harry-PERSON
+Ron-PERSON
+two-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Stone-ORG
+Sorcerer-NORP
+the centuries-DATE
+Stone-ORG
+Nicolas Flamel-PERSON
+opera lover-PERSON
+Flamel-PERSON
+six hundred and sixty-fifth-CARDINAL
+last year-DATE
+Devon-GPE
+Perenelle-PERSON
+six hundred and-QUANTITY
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+Flamel-ORG
+Dumbledore-PERSON
+Stone-ORG
+Gringotts-GPE
+Harry-PERSON
+Snape-PERSON
+Flamel-ORG
+Recent Developments-WORK_OF_ART
+Wizardry-GPE
+Ron-PERSON
+six hundred and sixty-five-CARDINAL
+The next morning-TIME
+Defense Against the Dark Arts-WORK_OF_ART
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Quidditch-NORP
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+Slytherins-PERSON
+Snape-LOC
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+Slytherin-PERSON
+House-ORG
+seven years-DATE
+Harry-PERSON
+Snape-LOC
+Snape 
+-LOC
+weekly-DATE
+Snape-PERSON
+Harry-PERSON
+Sorcerer-LOC
+Harry-PERSON
+the next afternoon-TIME
+Ron-PERSON
+Hermione-ORG
+Harry-PERSON
+Wood-ORG
+Quidditch-NORP
+Nimbus Two Thousand-ORG
+Hermione-ORG
+Neville-GPE
+Ron-PERSON
+Hermione-PERSON
+the Leg-Locker Curse-ORG
+Malfoy-ORG
+Neville-GPE
+Snape-LOC
+Harry-PERSON
+Locomotor Mortis-PERSON
+Ron-PERSON
+Ron-PERSON
+Wood-ORG
+Harry-PERSON
+Potter-PERSON
+Snitch-NORP
+Finish 
+
+ 
+
+
+
+
+-PERSON
+Snape-LOC
+Hufflepuff-PERSON
+Fred Weasley-PERSON
+Fred-PERSON
+Dumbledore-PERSON
+Snape-PERSON
+Ron-PERSON
+Ron-PERSON
+Malfoy-PERSON
+Weasley-PERSON
+Crabbe-ORG
+Wonder how long Potter-WORK_OF_ART
+Weasley-PERSON
+Ron-PERSON
+Snape-PERSON
+George Weasley-PERSON
+Bludger-GPE
+Harry-GPE
+Malfoy-PERSON
+a few minutes-TIME
+Hufflepuff-PERSON
+Potter-PERSON
+Longbottom-PERSON
+Malfoy-PERSON
+twelve-CARDINAL
+Malfoy-PERSON
+Crabbe-PERSON
+Ron-PERSON
+Neville-GPE
+Longbottom-PERSON
+Weasley-PERSON
+Ron-PERSON
+Harry-PERSON
+Malfoy-PERSON
+one-CARDINAL
+Hermione-PERSON
+Harry-PERSON
+Harry-PERSON
+Weasley-PERSON
+Potter-ORG
+Malfoy-PERSON
+Ron-PERSON
+Malfoy-PERSON
+Ron-PERSON
+Neville-GPE
+Harry-PERSON
+Harry-PERSON
+Malfoy-ORG
+Ron-PERSON
+Neville-GPE
+Crabbe-PERSON
+Goyle-PERSON
+Harry-PERSON
+Snitch-NORP
+Snitch-NORP
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+Gryffindor-PERSON
+Parvati Patil-ORG
+the row-DATE
+five minutes-TIME
+Harry-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+Snape-NORP
+Nimbus Two Thousand-ORG
+evening-TIME
+the 
+last hour-TIME
+Ron-PERSON
+Hermione-PERSON
+Ron-PERSON
+Hogwarts-ORG
+Snape-LOC
+Snape-LOC
+Harry-PERSON
+Nimbus Two Thousand 
+-ORG
+Snape-LOC
+Snape-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Harry-PERSON
+Snape-PERSON
+Quirrell-PERSON
+Hagrid-PERSON
+Severus-GPE
+Quirrell-PERSON
+Harry-PERSON
+Snape-LOC
+Harry-PERSON
+Quirrell-PERSON
+Ron-PERSON
+Malfoy-PERSON
+Neville-GPE
+Crabbe-PERSON
+Goyle-PERSON
+Pomfrey-PERSON
+Fred-PERSON
+George-PERSON
+Harry-PERSON
+Snape-PERSON
+Quirrell-PERSON
+Fluffy-NORP
+Quirrell-PERSON
+Quirrell-PERSON
+Stone-ORG
+Quirrell-PERSON
+Snape-LOC
+Hermione-PERSON
+next Tuesday-DATE
+Ron-PERSON
+NORWEGIAN-ORG
+the weeks-DATE
+third-ORDINAL
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Fluffy-ORG
+Stone-ORG
+Harry-PERSON
+Quirrell-PERSON
+these days-DATE
+Ron-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+Ten weeks-DATE
+second-ORDINAL
+Nicolas Flamel-PERSON
+six hundred years old-DATE
+Ron-PERSON
+the second 
+year-DATE
+a month ago-DATE
+Hermione-ORG
+Easter-LOC
+Christmas-DATE
+Hermione-PERSON
+twelve-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+first-ORDINAL
+months-DATE
+summer coming-DATE
+Dittany-WORK_OF_ART
+One Thousand-CARDINAL
+Ron-PERSON
+Yer-PERSON
+Nicolas Flamel-PERSON
+yeh-PERSON
+Ron-PERSON
+Don-PERSON
+yeh-PERSON
+Harry-PERSON
+Stone-ORG
+Fluffy-ORG
+Hagrid-PERSON
+yeh-PERSON
+Harry-PERSON
+Stone-ORG
+Ron-PERSON
+Britain-GPE
+Ireland-GPE
+Egg-GPE
+Inferno-GPE
+Harry-PERSON
+Ron-PERSON
+1709-DATE
+Charlie-PERSON
+Romania-GPE
+Britain-GPE
+Harry-PERSON
+Ron-PERSON
+The Ministry of Magic-ORG
+Muggles-GPE
+Hermione-PERSON
+Hagrid-PERSON
+yeh-PERSON
+Harry-PERSON
+bush-PERSON
+Sorcerer-ORG
+two-CARDINAL
+yeh-PERSON
+yeh-PERSON
+Stone-PERSON
+Gringotts-ORG
+Fluffy-WORK_OF_ART
+Hagrid-PERSON
+Hermione-PERSON
+Hagrid-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+yeh-PERSON
+Sprout-PERSON
+Flitwick-PERSON
+McGonagall-WORK_OF_ART
+Quirrell-PERSON
+Dumbledore-PERSON
+Snape-WORK_OF_ART
+Stone-ORG
+Ron-PERSON
+Hermione-PERSON
+Snape-PERSON
+Quirrell-PERSON
+Fluffy-ORG
+Hagrid-PERSON
+Harry-PERSON
+one-CARDINAL
+Harry-PERSON
+Can’t, Harry-WORK_OF_ART
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+black egg-FAC
+Hagrid-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Las-WORK_OF_ART
+Hermione-PERSON
+bin-PERSON
+Hagrid-PERSON
+every half hour-TIME
+Norwegian-NORP
+Hermione-ORG
+Hagrid-PERSON
+Hagrid-PERSON
+Wonder-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+one-CARDINAL
+Hedwig-PERSON
+Harry-PERSON
+Hagrid-PERSON
+only two-CARDINAL
+Hermione-ORG
+Hagrid-PERSON
+Harry-PERSON
+only a few feet-QUANTITY
+Harry-PERSON
+Malfoy-PERSON
+Ron-PERSON
+Hermione-PERSON
+Hermione-ORG
+two-CARDINAL
+three-CARDINAL
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Hermione-PERSON
+Norwegian-NORP
+Malfoy-PERSON
+the next week-DATE
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Hagrid-PERSON
+Harry-PERSON
+Hagrid-PERSON
+three-CARDINAL
+just a week-DATE
+Hagrid-PERSON
+Norbert-PERSON
+Hagrid-PERSON
+Mommy-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry loudly-PERSON
+two weeks-DATE
+Ron-PERSON
+Charlie-PERSON
+Ron-PERSON
+Ron-PERSON
+Charlie-PERSON
+Charlie-PERSON
+Romania-GPE
+Norbert-PERSON
+Charlie-PERSON
+Ron-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Charlie-PERSON
+Wednesday night-TIME
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry’s Invisibility Cloak-PERSON
+Hagrid’s hut-PERSON
+a week-DATE
+Hagrid-PERSON
+It’s Hedwig-WORK_OF_ART
+Harry-PERSON
+Charlie-PERSON
+three-CARDINAL
+Ron-PERSON
+the Norwegian Ridgeback-ORG
+next week-DATE
+midnight-TIME
+Saturday-DATE
+Harry-PERSON
+two-CARDINAL
+Norbert-PERSON
+the last week-DATE
+two-CARDINAL
+Malfoy-PERSON
+the next morning-TIME
+Ron-PERSON
+Pomfrey-PERSON
+afternoon-TIME
+Norbert-PERSON
+Hermione-PERSON
+the end of the day-DATE
+Ron-PERSON
+Malfoy-PERSON
+Pomfrey-PERSON
+one-CARDINAL
+Quidditch-NORP
+Hermione-ORG
+Ron-PERSON
+midnight-TIME
+Saturday-DATE
+Ron-PERSON
+Midnight on Saturday-WORK_OF_ART
+Charlie-PERSON
+Malfoy-PERSON
+Norbert-GPE
+Hermione-PERSON
+Pomfrey-PERSON
+Ron-PERSON
+Harry-PERSON
+Charlie-PERSON
+Norbert-PERSON
+Malfoy-PERSON
+Fang-PERSON
+Hagrid-PERSON
+Norbert-PERSON
+Charlie-PERSON
+Norbert-PERSON
+Harry-PERSON
+Hermione-PERSON
+Saturday-DATE
+Hagrid-PERSON
+Norbert-PERSON
+Hagrid-PERSON
+Norbert-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Norbert-PERSON
+Harry-PERSON
+Mommy-PERSON
+Midnight-TIME
+Norbert-PERSON
+Harry-PERSON
+Harry-PERSON
+two-CARDINAL
+ten feet-QUANTITY
+McGonagall-PERSON
+Malfoy-PERSON
+twenty-CARDINAL
+Harry Potter-PERSON
+Snape-PERSON
+Malfoy-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Norbert-PERSON
+About ten minutes later-TIME
+four-CARDINAL
+Harry-PERSON
+Hermione-PERSON
+Norbert-PERSON
+Norbert-PERSON
+Harry-PERSON
+Hermione-PERSON
+Norbert-PERSON
+Norbert-PERSON
+Malfoy-PERSON
+Filch-PERSON
+McGonagall-PERSON
+first-ORDINAL
+Harry-PERSON
+McGonagall-PERSON
+night-TIME
+Astronomy Tower-FAC
+McGonagall-PERSON
+Neville-GPE
+Harry-WORK_OF_ART
+Neville-GPE
+two-CARDINAL
+Malfoy-PERSON
+Neville-GPE
+McGonagall-PERSON
+Norbert-PERSON
+three-CARDINAL
+Filch-PERSON
+the Astronomy Tower-FAC
+the morning-TIME
+first-ORDINAL
+Hermione-ORG
+McGonagall-WORK_OF_ART
+Draco Malfoy-ORG
+Longbottom-PERSON
+Neville-GPE
+Neville-GPE
+Neville-GPE
+Harry-PERSON
+McGonagall-WORK_OF_ART
+Four-CARDINAL
+one night-TIME
+Miss Granger-PERSON
+Potter-PERSON
+All three-CARDINAL
+night-TIME
+these days-DATE
+fifty-CARDINAL
+Fifty-WORK_OF_ART
+Harry gasped-PERSON
+Quidditch-NORP
+Fifty-CARDINAL
+McGonagall-PERSON
+Potter-PERSON
+A hundred and fifty-CARDINAL
+one night-TIME
+the House Cup-EVENT
+Harry-PERSON
+all night-TIME
+Neville-GPE
+Harry-PERSON
+Neville-GPE
+first-ORDINAL
+House-ORG
+the next day-DATE
+a hundred and fifty-CARDINAL
+fewer than yesterday-DATE
+Harry Potter-PERSON
+Harry Potter-PERSON
+two-CARDINAL
+Quidditch-NORP
+Harry-PERSON
+Slytherin-PERSON
+the House Cup-EVENT
+Harry-PERSON
+Slytherins-PERSON
+Thanks Potter-WORK_OF_ART
+a few weeks-DATE
+Fred-PERSON
+George-PERSON
+a hundred and fifty-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Wood-ORG
+Quidditch-PERSON
+Quidditch-PERSON
+Harry-PERSON
+Neville-GPE
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+about a week-DATE
+Harry-PERSON
+one afternoon-TIME
+Quirrell-PERSON
+Quirrell-PERSON
+Next second-TIME
+Quirrell-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+twelve-CARDINAL
+Snape-LOC
+Harry-PERSON
+Snape-PERSON
+Quirrell-PERSON
+Hermione-ORG
+Ron-PERSON
+Astronomy-PERSON
+Harry-PERSON
+Snape-WORK_OF_ART
+Ron-PERSON
+Quirrell-PERSON
+Anti-Dark Force-ORG
+Fluffy-ORG
+Hermione-PERSON
+Snape-PERSON
+Hagrid-PERSON
+Ron-PERSON
+thousands-CARDINAL
+three-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Harry-PERSON
+Go to Dumbledore-WORK_OF_ART
+Harry-PERSON
+Quirrell-PERSON
+Snape-PERSON
+Halloween-DATE
+third-ORDINAL
+Dumbledore-PERSON
+Filch-ORG
+Snape-LOC
+Stone-NORP
+Fluffy-ORG
+Ron-PERSON
+Harry-PERSON
+Jupiter-LOC
+The following morning-TIME
+Harry-PERSON
+Neville-GPE
+eleven o’clock 
+tonight-TIME
+Filch-PERSON
+M. McGonagall-PERSON
+Harry-PERSON
+half-CARDINAL
+Harry-PERSON
+eleven o’clock that night-TIME
+Ron-PERSON
+Neville-GPE
+Filch-PERSON
+Malfoy-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Filch-ORG
+a few days-DATE
+Neville-GPE
+Harry-PERSON
+Filch-ORG
+Harry-PERSON
+Hagrid-PERSON
+Filch-PERSON
+Hagrid-PERSON
+Filch-ORG
+Neville-GPE
+Malfoy-PERSON
+night-TIME
+Harry-PERSON
+Filch-PERSON
+Fang-PERSON
+bin waitin-PERSON
+fer half an hour-WORK_OF_ART
+Harry-PERSON
+Hermione-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Bin lecturin-PERSON
+Filch-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Yeh-PERSON
+Hogwarts-ORG
+yeh’ve-PRODUCT
+Hogwarts-ORG
+yeh’ll-PRODUCT
+yeh-PERSON
+yer-PERSON
+Malfoy-ORG
+Hagrid-PERSON
+tonight-TIME
+Hagrid-PERSON
+second-ORDINAL
+a week-DATE
+one-CARDINAL
+last Wednesday-DATE
+first-ORDINAL
+Malfoy-PERSON
+Fang-PERSON
+Hagrid-PERSON
+two-CARDINAL
+bin staggerin’-PERSON
+last night-TIME
+Fang-PERSON
+Malfoy-PERSON
+Fang-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Draco-PERSON
+Neville-GPE
+earth-LOC
+Harry-PERSON
+Hagrid-PERSON
+Malfoy-PERSON
+Neville-GPE
+Fang-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Hermione-PERSON
+Don-PERSON
+Harry-PERSON
+Hermione-PERSON
+three-CARDINAL
+a few seconds-TIME
+Harry-PERSON
+Hagrid grimly-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Hermione-PERSON
+Ronan-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Ronan-PERSON
+Ronan-PERSON
+Hagrid-PERSON
+Harry Potter-PERSON
+Hermione Granger-PERSON
+Ronan-PERSON
+two-CARDINAL
+Hermione-PERSON
+Ronan-PERSON
+Hermione-ORG
+Ronan-PERSON
+Mars-LOC
+tonight-TIME
+Hagrid-PERSON
+Ronan-PERSON
+first-ORDINAL
+Hagrid-PERSON
+yeh-PERSON
+Ronan-PERSON
+Mars-LOC
+tonight-TIME
+Ronan-PERSON
+Hagrid-PERSON
+Ronan-PERSON
+Ronan-PERSON
+Hagrid-PERSON
+second-ORDINAL
+Ronan-PERSON
+Hullo, Bane-WORK_OF_ART
+Hagrid-PERSON
+Hagrid-PERSON
+bin askin-PERSON
+Ronan-PERSON
+Ronan-PERSON
+Mars-LOC
+tonight-TIME
+Hagrid-PERSON
+yeh-PERSON
+Hermione-PERSON
+Ronan-PERSON
+Bane-PERSON
+Hagrid-PERSON
+Hermione-ORG
+don-PERSON
+Harry-PERSON
+yeh-PERSON
+’s bin killin-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+two-CARDINAL
+Hagrid-PERSON
+Hermione-PERSON
+Malfoy-PERSON
+Neville-GPE
+first-ORDINAL
+The minutes-TIME
+Harry-PERSON
+Hagrid-PERSON
+Malfoy-PERSON
+Neville-GPE
+Fang-PERSON
+Malfoy-PERSON
+Neville-GPE
+Neville-GPE
+two-CARDINAL
+Neville-GPE
+Hermione-PERSON
+Harry-PERSON
+Fang-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Fang-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+bush-PERSON
+Harry-PERSON
+Malfoy-PERSON
+Fang-PERSON
+Fang-PERSON
+Harry-PERSON
+Harry-PERSON
+Half-CARDINAL
+Harry-GPE
+Harry-PERSON
+two-CARDINAL
+Ronan-PERSON
+Bane-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Potter-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Ronan-PERSON
+Bane-PERSON
+Bane-PERSON
+Bane-PERSON
+Remember, Firenze-WORK_OF_ART
+donkeys-PERSON
+Harry-PERSON
+Bane-PERSON
+Harry-PERSON
+Ronan-PERSON
+Bane-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Firenze-NORP
+Firenze-ORG
+Harry Potter-PERSON
+Harry-PERSON
+Firenze-ORG
+half-CARDINAL
+Firenze-ORG
+Potter-PERSON
+The Sorcerer’s Stone!-WORK_OF_ART
+the Elixir of Life-WORK_OF_ART
+many years-DATE
+Harry-PERSON
+Hagrid-PERSON
+the night-TIME
+Codswallop-PERSON
+Harry-PERSON
+VoZ-ORG
+Harry!-WORK_OF_ART
+Harry-PERSON
+Hagrid-PERSON
+Harry Potter-PERSON
+Firenze-ORG
+Harry-PERSON
+Quidditch-PERSON
+Harry-PERSON
+seconds-TIME
+Harry-PERSON
+Hermione-ORG
+Snape wants the Stone for Voldemort-WORK_OF_ART
+Snape-NORP
+Ron-PERSON
+Voldemort-ORG
+Bane-PERSON
+Voldemort-ORG
+Firenze-ORG
+Voldemort-ORG
+Ron-PERSON
+Harry-PERSON
+Voldemort-ORG
+11-CARDINAL
+Dumbledore-PERSON
+McGonagall-PERSON
+the night-TIME
+Harry-PERSON
+Invisibility Cloak-PERSON
+THE TRAPDOOR 
+
+-WORK_OF_ART
+years-DATE
+Harry-PERSON
+half-CARDINAL
+Voldemort-ORG
+days-DATE
+Fluffy-ORG
+Flitwick-PERSON
+one-CARDINAL
+one-CARDINAL
+McGonagall-PERSON
+Harry-PERSON
+Neville-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Voldemort-ORG
+One hour-TIME
+week-DATE
+Harry-PERSON
+Eager-PRODUCT
+Ron-PERSON
+Weasley-PERSON
+Lee Jordan-PERSON
+Ron-PERSON
+a week-DATE
+Go to Madam Pomfrey-WORK_OF_ART
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+Stone-ORG
+Dumbledore-PERSON
+Snape-LOC
+Fluffy-ORG
+Neville-GPE
+Quidditch-PERSON
+England-GPE
+Transfiguration-ORG
+Hagrid-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Fluffy-ORG
+Ron-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hermione-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Ron-PERSON
+Harry-PERSON
+Hullo-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Norbert-PERSON
+Hagrid-PERSON
+three-CARDINAL
+yeh-PERSON
+Hog-PERSON
+one-CARDINAL
+Hagrid-PERSON
+Hogwarts-PERSON
+Hagrid-PERSON
+Fluffy-ORG
+Fluffy-ORG
+three-CARDINAL
+Fluffy-ORG
+shouldn’ta-PRODUCT
+yeh-PERSON
+yeh-PERSON
+Ron-PERSON
+Hermione-ORG
+Dumbledore-GPE
+Harry-PERSON
+Fluffy-ORG
+Snape or Voldemort-WORK_OF_ART
+Hagrid-PERSON
+Bane-PERSON
+Dumbledore-PERSON
+Dumbledore-PERSON
+three-CARDINAL
+McGonagall-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+Ron-PERSON
+See Professor Dumbledore-WORK_OF_ART
+McGonagall-PERSON
+McGonagall-PERSON
+Dumbledore-PERSON
+ten minutes ago-TIME
+Magic-GPE
+London-GPE
+Harry-PERSON
+Dumbledore-PERSON
+Potter-PERSON
+the Ministry of Magic-ORG
+Potter-PERSON
+Harry-PERSON
+McGonagall-PERSON
+Sn-PERSON
+Dumbledore-PERSON
+Dumbledore-PERSON
+tomorrow-DATE
+Stone-ORG
+tonight-TIME
+Harry-PERSON
+tonight-TIME
+the Ministry of 
+-ORG
+Dumbledore-ORG
+Harry-PERSON
+Ron-PERSON
+afternoon-TIME
+a day-DATE
+Harry-PERSON
+Snape-PERSON
+Gryffindor-PERSON
+Snape-LOC
+Potter-PERSON
+Harry-PERSON
+One-CARDINAL
+Snape-LOC
+Ron-PERSON
+Flitwick-PERSON
+Oh Professor Flitwick-WORK_OF_ART
+fourteen-CARDINAL
+Hermione-PERSON
+Snape-LOC
+third-ORDINAL
+Harry-PERSON
+Ron-PERSON
+Fluffy-ORG
+McGonagall-WORK_OF_ART
+fifty-QUANTITY
+Weasley-PERSON
+House-ORG
+Ron-PERSON
+Harry-PERSON
+At least Hermione’s on Snape’s tail-WORK_OF_ART
+Harry-PERSON
+Snape-LOC
+Snape-LOC
+Harry-PERSON
+two-CARDINAL
+tonight-TIME
+Stone-PERSON
+Ron-PERSON
+Hermione-PERSON
+McGonagall-PERSON
+SO WHAT-WORK_OF_ART
+Harry-PERSON
+the Stone, Voldemort-ORG
+Gryffindor-PERSON
+House-ORG
+Stone-ORG
+Dursleys-PERSON
+tonight-TIME
+two-CARDINAL
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+three-CARDINAL
+Ron-PERSON
+all three-CARDINAL
+Hermione-ORG
+Stone-ORG
+two-CARDINAL
+Hermione-PERSON
+a hundred and twelve-CARDINAL
+three-CARDINAL
+Harry-PERSON
+the first night-TIME
+Hermione-PERSON
+Harry 
+-PERSON
+Ron-PERSON
+Ron-PERSON
+Lee Jordan-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Christmas-DATE
+three-CARDINAL
+Filch-ORG
+one-CARDINAL
+Neville-GPE
+Trevor-PERSON
+Nothing, Neville-WORK_OF_ART
+Harry-PERSON
+Neville-GPE
+Hermione-PERSON
+Neville-GPE
+Fluffy-ORG
+Neville-GPE
+Harry-PERSON
+Neville-GPE
+Neville-GPE
+Ron-PERSON
+Neville-PERSON
+Ron-PERSON
+Neville-GPE
+Neville-GPE
+Trevor-PERSON
+Neville-PERSON
+Hermione-ORG
+Neville-GPE
+Petrificus Totalusl-WORK_OF_ART
+Neville-GPE
+Neville-GPE
+Neville-GPE
+Harry-PERSON
+Hermione-PERSON
+Neville-GPE
+Neville-GPE
+Harry-PERSON
+Neville-GPE
+Ron-PERSON
+Neville-GPE
+Filch-ORG
+first-ORDINAL
+Ron-PERSON
+Harry’s-PERSON
+Harry-PERSON
+Norris-PERSON
+third-ORDINAL
+Filch-PERSON
+Bloody-GPE
+about a foot-QUANTITY
+Baron-PERSON
+Harry-PERSON
+tonight-TIME
+Brilliant, Harry-WORK_OF_ART
+Ron-PERSON
+A few seconds later-TIME
+third-ORDINAL
+ajar-PERSON
+Harry-PERSON
+Snape-WORK_OF_ART
+Fluffy-ORG
+three-CARDINAL
+Harry-PERSON
+two-CARDINAL
+Ron-PERSON
+Hermione-PERSON
+three-CARDINAL
+Ron-PERSON
+Harry-PERSON
+Hagrid-PERSON
+first-ORDINAL
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+first-ORDINAL
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+first-ORDINAL
+Ron-PERSON
+the few seconds-TIME
+Hermione-PERSON
+Ron-PERSON
+Hedwig-PERSON
+Ron-PERSON
+a minute-TIME
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+first-ORDINAL
+Hermione-ORG
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+Harry-PERSON
+Ron-PERSON
+two-CARDINAL
+Ron-PERSON
+Harry gasped-PERSON
+Devil’s Snare, Devil’s Snare-WORK_OF_ART
+Harry-PERSON
+HAVE YOU GONE MAD?-WORK_OF_ART
+Ron-PERSON
+Hermione-PERSON
+Snape-LOC
+two-CARDINAL
+Herbology-GPE
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Gringotts-PERSON
+Norbert-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry-PERSON
+second-ORDINAL
+two-CARDINAL
+Alohomora Charm-ORG
+Ron-PERSON
+Hermione-ORG
+Harry-PERSON
+two-CARDINAL
+hundreds-CARDINAL
+Ron-PERSON
+Harry-PERSON
+a century-DATE
+a minute-TIME
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+Ron-PERSON
+Hermione-ORG
+Harry-PERSON
+Harry-PERSON
+one-CARDINAL
+Ron-PERSON
+Hermione-PERSON
+Harry-PERSON
+Harry-PERSON
+two-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+two-CARDINAL
+three-CARDINAL
+Harry-PERSON
+Hermione-PERSON
+Ron-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+three-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+first-ORDINAL
+Ron-PERSON
+two-CARDINAL
+Harry-PERSON
+Harry-WORK_OF_ART
+four-CARDINAL
+first-ORDINAL
+Ron-PERSON
+Hermione-ORG
+Ron-PERSON
+Harry-PERSON
+Hermione-PERSON
+Ron-PERSON
+Harry-PERSON
+Hermione-PERSON
+Ron-PERSON
+Harry-PERSON
+Snape-PERSON
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+Ron-PERSON
+one-CARDINAL
+Harry-PERSON
+three-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+Devil-PERSON
+Quirrell-PERSON
+Snape-PERSON
+Harry-PERSON
+Harry-PERSON
+seven-CARDINAL
+Snape’s-WORK_OF_ART
+Harry-PERSON
+Harry-PERSON
+Two-CARDINAL
+One-CARDINAL
+seven-CARDINAL
+Two-CARDINAL
+Three-CARDINAL
+four-CARDINAL
+Second-ORDINAL
+Third-ORDINAL
+Fourth-ORDINAL
+second-ORDINAL
+second-ORDINAL
+first-ORDINAL
+Harry-PERSON
+Brilliant-WORK_OF_ART
+Hermione-PERSON
+Hermione-PERSON
+Seven-CARDINAL
+three-CARDINAL
+two-CARDINAL
+one-CARDINAL
+Stone-ORG
+one-CARDINAL
+one-CARDINAL
+one-CARDINAL
+Harry-PERSON
+Ron-PERSON
+Fluffy-ORG
+Hedwig-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Hermionel-WORK_OF_ART
+Harry — you’re a great wizard-WORK_OF_ART
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+first-ORDINAL
+Harry-PERSON
+Hermione-PERSON
+Harry-PERSON
+one-CARDINAL
+Voldemort-ORG
+TWO-CARDINAL
+Quirrell-PERSON
+Harry-PERSON
+Potter-PERSON
+Severus-WORK_OF_ART
+Quirrell-PERSON
+Quidditch-NORP
+Another few seconds-TIME
+Snape-WORK_OF_ART
+Quirrell-PERSON
+tonight-TIME
+Quirrell-PERSON
+Harry-PERSON
+Potter-PERSON
+Halloween-DATE
+Snape-PERSON
+third-ORDINAL
+three-CARDINAL
+Potter-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+London-GPE
+Quirrell-PERSON
+the 
+mirror-LOC
+Snape-LOC
+Quirrell-PERSON
+I see the Stone ...-WORK_OF_ART
+Quirrell-PERSON
+Quirrell-PERSON
+a few days ago-DATE
+first-ORDINAL
+Quirrell-PERSON
+Harry gasped-PERSON
+Quirrell-PERSON
+Lord Voldemort-ORG
+Quirrell-PERSON
+Gringotts-PERSON
+Harry-PERSON
+Diagon Alley-ORG
+Quirrell-PERSON
+the Leaky Cauldron-LOC
+Quirrell-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Quirrell’s 
+
+ 
+
+
+
+
+-ORG
+first-ORDINAL
+Harry-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+the House Cup-EVENT
+Harry-PERSON
+five-CARDINAL
+Quirrell-PERSON
+Quirrell-PERSON
+Devil-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Harry Potter-WORK_OF_ART
+these past weeks-DATE
+Quirrell-PERSON
+the Elixir of Life-WORK_OF_ART
+Stone-ORG
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+first-ORDINAL
+Stone-ORG
+Voldemort-ORG
+SEIZE HIM-WORK_OF_ART
+the next second-DATE
+Harry-PERSON
+Quirrell-PERSON
+Harry-PERSON
+two-CARDINAL
+Quirrell-PERSON
+Quirrell-PERSON
+Voldemort-ORG
+Quirrell-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+AAAARGH-ORG
+Harry-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Voldemort-ORG
+Harry-PERSON
+Harry!-WORK_OF_ART
+Quirrell-PERSON
+Albus-NORP
+Harry-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Dumbledore-PERSON
+Quirrell-PERSON
+Pomfrey-PERSON
+Quirrell-PERSON
+Misters Fred-PERSON
+George 
+Weasley-PERSON
+Pomfrey-PERSON
+Three days-DATE
+Ronald Weasley-PERSON
+Miss Granger-PERSON
+Stone-ORG
+Quirrell-PERSON
+Hermione-PERSON
+London-GPE
+Quirrell-PERSON
+Not the Stone-WORK_OF_ART
+one-CARDINAL
+Stone-ORG
+Harry blankly-PERSON
+Nicolas Flamel-PERSON
+Nicolas-PERSON
+Dumbledore-PERSON
+Nicolas-PERSON
+Elixir-PERSON
+Harry-PERSON
+Nicolas-PERSON
+Perenelle-PERSON
+Stone-ORG
+two-CARDINAL
+Harry-PERSON
+Stone-ORG
+Call him Voldemort-WORK_OF_ART
+Harry-PERSON
+Voldemort-ORG
+Harry-PERSON
+Quirrell-PERSON
+Harry-PERSON
+11-CARDINAL
+first-ORDINAL
+first-ORDINAL
+today-DATE
+one day-DATE
+Harry-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Quirrell-PERSON
+Voldemort-ORG
+Harry-PRODUCT
+Harry-PERSON
+And the Invisibility Cloak-WORK_OF_ART
+Quirrell-PERSON
+Snape-PERSON
+Professor Snape, Harry-WORK_OF_ART
+Quirrell-PERSON
+Malfoy-PERSON
+Dumbledore-PERSON
+Snape-PERSON
+this year-DATE
+one-CARDINAL
+Stone-ORG
+Stone-ORG
+Bertie Bott-PERSON
+Pomfrey-PERSON
+Just five minutes-TIME
+Harry-PERSON
+You let Professor Dumbledore-WORK_OF_ART
+Pomfrey-PERSON
+five minutes-TIME
+Ron-PERSON
+Hermione-PERSON
+Harry-PERSON
+Harry-PERSON
+Ron-PERSON
+one-CARDINAL
+Harry-PERSON
+Quirrell-PERSON
+Stone-ORG
+Voldemort-ORG
+Ron-PERSON
+Hermione-PERSON
+Harry-PERSON
+Quirrell-PERSON
+Hermione-PERSON
+So the Stone’s gone-WORK_OF_ART
+Ron-PERSON
+Ron-PERSON
+two-CARDINAL
+Harry-PERSON
+Hermione-PERSON
+Ron-PERSON
+Dumbledore-GPE
+Harry-PERSON
+third-ORDINAL
+Ron-PERSON
+Harry-PERSON
+Dumbledore-PERSON
+Voldemort-ORG
+Yeah, Dumbledore’s off his rocker-WORK_OF_ART
+Ron-PERSON
+of-year feast tomorrow-DATE
+Slytherin-PERSON
+Pomfrey-PERSON
+nearly fifteen minutes-TIME
+Harry-PERSON
+Pomfrey-PERSON
+Dumbledore-PERSON
+Dumbledore-PERSON
+Harry-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Yeh-PERSON
+Muggle-NORP
+Harry-PERSON
+Hagrid-PERSON
+Voldemort-WORK_OF_ART
+Yeh-PERSON
+Harry bellowed-PERSON
+Hagrid-PERSON
+Hagrid-PERSON
+Harry-PERSON
+Hagrid-PERSON
+the day off yesterday ter-DATE
+Harry-PERSON
+knew yeh didn-PERSON
+Hagrid-PERSON
+Pomfrey-PERSON
+the Great Hall-FAC
+Slytherin-PERSON
+Slytherin-PERSON
+the House Cup-EVENT
+the seventh year in a row-DATE
+Slytherin-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-PERSON
+Dumbledore-PERSON
+Another year-DATE
+a year-DATE
+summer-DATE
+next year-DATE
+the House Cup-EVENT
+fourth-ORDINAL
+three hundred and twelve-QUANTITY
+third-ORDINAL
+Hufflepuff-PERSON
+three hundred and fifty-two-CARDINAL
+Ravenclaw-GPE
+four hundred and twenty-six-CARDINAL
+four hundred and seventy- two-CARDINAL
+Harry-PERSON
+Draco Malfoy-ORG
+Slytherin-PERSON
+Dumbledore-PERSON
+Slytherins-PERSON
+Ahem-WORK_OF_ART
+Dumbledore-PERSON
+First-ORDINAL
+Ronald Weasley-PERSON
+Ron-PERSON
+many years-DATE
+fifty-CARDINAL
+Got past McGonagall-PERSON
+Second-ORDINAL
+Hermione Granger-PERSON
+Gryffindor House-PERSON
+fifty-CARDINAL
+Harry-PERSON
+hundred-CARDINAL
+Third-ORDINAL
+Harry Potter-PERSON
+Dumbledore-PERSON
+Gryffindor House-ORG
+Gryffindor-PERSON
+four hundred and seventy-two-CARDINAL
+Slytherin-PERSON
+House-ORG
+Harry-PERSON
+Dumbledore-PERSON
+ten-CARDINAL
+Neville-PERSON
+the Great Hall-FAC
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Neville-GPE
+Harry-PERSON
+Ron-PERSON
+Malfoy-ORG
+the Body-Bind 
+-WORK_OF_ART
+Ravenclaw-PERSON
+Hufflepuff-PERSON
+Slytherin-PERSON
+Slytherin-PRODUCT
+McGonagall-PERSON
+Harry-PERSON
+Harry-PERSON
+Snape-LOC
+Harry-PERSON
+next year-DATE
+Harry-PERSON
+Quidditch-PERSON
+Christmas-DATE
+tonight-TIME
+Ron-PERSON
+the first 
+years-DATE
+Neville-GPE
+Goyle-PERSON
+Ron-PERSON
+Neville-GPE
+Fred Weasley-PERSON
+Hagrid-PERSON
+Hogwarts Express-ORG
+Bertie Bott-PERSON
+Muggle-NORP
+nine-CARDINAL
+Muggles-GPE
+this summer-DATE
+Ron-PERSON
+Harry-PERSON
+Muggle-NORP
+Bye, Harry-WORK_OF_ART
+Ron-PERSON
+Harry-PERSON
+Ron-PERSON
+Hermione-ORG
+Ginny Weasley-PERSON
+Ron-PERSON
+Ron-PERSON
+Harry Potter-WORK_OF_ART
+Ginny-PERSON
+Weasley-PERSON
+Harry-PERSON
+Weasley-PERSON
+Vernon-GPE
+Harry-PERSON
+Aunt Petunia-PERSON
+Dudley-PERSON
+Harry-PERSON
+Harry-PERSON
+Weasley-PERSON
+Uncle Vernon-PERSON
+Hurry-PERSON
+all day-DATE
+Ron-PERSON
+the summer-DATE
+Harry-PERSON
+Dudley-PERSON
+this summer-DATE

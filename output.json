@@ -1,0 +1,1 @@
+[{"longest": "Mr. and Mrs. Dursley , of number four , Privet Drive", "proper_nouns": ["Mr.", "Mrs.", "Dursley", "Privet", "Drive", "They", "The"], "most_common": "they"}, {"longest": "Mr. Dursley", "proper_nouns": ["Mr.", "Dursley", "He"], "most_common": "he"}, {"longest": "Mrs. Dursley", "proper_nouns": ["Mrs.", "Dursley"], "most_common": "she"}]
